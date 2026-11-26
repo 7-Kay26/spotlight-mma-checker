@@ -1,6 +1,6 @@
 # Tuivasa–Diniz prepared captions
 
-Status: NOT PUBLISHED. Browser tool did not expose the user's signed-in X and YouTube side-panel tabs. Cloud Chrome inventory contained an X error page and a blank tab. Earlier X access received a browser security-policy denial. Account identity and account-post duplicate checks remain unverified. Original logo files are not yet archived; verify logo fidelity before publication.
+Status: X PUBLISHED through Buffer: https://twitter.com/SpotlightEncoun/status/2126030543481397521 . YouTube Community not published: unsupported by Buffer. Historical preparation note: Browser tool did not expose the user's signed-in X and YouTube side-panel tabs. Cloud Chrome inventory contained an X error page and a blank tab. Earlier X access received a browser security-policy denial. Account identity and account-post duplicate checks remain unverified. Original logo files are not yet archived; verify logo fidelity before publication.
 
 Poster: `tuivasa-diniz-layout-preview.png` — same file intended for both platforms.
 
