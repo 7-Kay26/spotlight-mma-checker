@@ -7,13 +7,16 @@
       "https://www.mmafighting.com/ufc/523424/tai-tuivasa-booked-for-ufc-sydney-looking-to-avoid-historic-losing-streak"
     ],
     "x_caption_draft": "MMA Fighting reports Tai Tuivasa vs Jhonata Diniz for UFC Sydney on Feb. 6. #UFC #MMA Who wins?\nhttps://www.mmafighting.com/ufc/523424/tai-tuivasa-booked-for-ufc-sydney-looking-to-avoid-historic-losing-streak",
-    "poster_status": "Non-public test draft generated; plain-text brand pending authentic logo; fighter likenesses need correction/validation before publication.",
+    "poster_status": "Layout updated: TEST DRAFT removed, smaller/lower Spotlight mark, larger/lower UFC mark. Portraits regenerated using identified athlete headshots. Source-logo fidelity still needs validation; original logo bytes not archived.",
     "blockers": [
       "X browser navigation failed; follow-up observation explicitly denied by browser security/URL policy. Do not work around.",
       "Authentic separate logo file unavailable",
       "Account identity and recent-post duplicate checks unverified"
     ],
     "published_links": {},
-    "assessed_at": "2026-11-26"
+    "assessed_at": "2026-11-26",
+    "poster_path": "assets/posters/tuivasa-diniz-layout-preview.png",
+    "captions_path": "assets/posters/tuivasa-diniz-captions.md",
+    "browser_inventory": "Only cloud Chrome with X error page and new tab; requested signed-in X/YouTube panel tabs not exposed."
   }
 }

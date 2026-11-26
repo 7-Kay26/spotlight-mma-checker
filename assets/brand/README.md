@@ -20,3 +20,11 @@ The two inline attachments are visible to the assistant as references in this ch
 Then record actual filenames and SHA-256 checksums here. These are intended paths, not existing assets.
 
 The logo-only revision to the Tuivasa–Diniz test draft remains a draft: fighter likenesses still require correction, the booking remains attributed reporting, and X browser access is blocked. It must not be published as approved final artwork.
+
+## Layout revision
+
+- Remove the TEST DRAFT label as requested; absence of this label is not proof of publication readiness.
+- Spotlight logo: smaller, lower in the upper center with generous top margin.
+- UFC event identification: lower below the brand mark and larger, with white separation.
+- Reuse the same 16:9 file for X and YouTube Community; no separate square image. Inspect the actual YouTube preview before publishing so key text is not clipped.
+- `assets/posters/tuivasa-diniz-layout-preview.png` includes these changes and portraits regenerated using identified UFC profile headshots as likeness references. It is generated editorial artwork, not a photograph or an archived source logo. Production still requires source-logo fidelity validation.
