@@ -68,3 +68,9 @@ Reports include feed excerpts and links, not full scraped articles. Text from fe
 ## Validation
 
 Unit tests passed. An initial live fetch succeeded for all three default feeds and produced 31 matching candidates. This validates collection, not the accuracy of those claims. See the GitHub Actions run history for hosted execution status. No chat integration or social publishing is deployed.
+
+## Codex repository handoff
+
+`data/latest.json` and `data/latest.md` contain the latest run. `data/candidates.json` retains a rolling seven-day queue, including candidates from earlier runs, so an empty poll does not erase unprocessed news. These reports contain public news excerpts and are committed to this public repository. Codex should read the queue through GitHub and maintain its own processed/publication ledger. The queue does not imply verification or publication.
+
+Manual workflow input `test_fetch=true` fetches the last 24 hours once using temporary empty duplicate history, without resetting production history. It still saves candidates to the queue. Use it for a live test, not routine operation.
