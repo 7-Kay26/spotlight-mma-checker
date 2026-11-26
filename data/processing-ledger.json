@@ -243,11 +243,11 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-26T19:52:26Z",
+    "checked_at": "2026-11-26T20:40:58Z",
     "queue_checked_at": "2026-11-26T18:50:31.146230+00:00",
-    "queue_age_minutes": 62,
+    "queue_age_minutes": 110,
     "feed_errors": [],
     "published": 0,
-    "notes": "No newly selected verified story. Original source logo archival still pending; previously reported blocker unchanged. No browser or YouTube retries."
+    "notes": "Queue unchanged; all 23 candidates already assessed or awaiting primary verification. No new unprocessed candidate. Last report remains within two-hour freshness threshold. No repeated source, logo, browser or YouTube blocker notifications."
   }
 }
