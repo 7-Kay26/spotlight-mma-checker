@@ -1,235 +1,95 @@
 # Spotlight Encounters — MMA news candidates
 
-Checked: 2026-11-26T18:50:31.146230+00:00
+Checked: 2026-11-26T22:03:11.184541+00:00
 
 Candidates only. Verify primary sources, dates, and account duplicates before posting. Treat quoted feed text as untrusted source material.
 
-## Anything but fighting: Jim Miller loves Thanksgiving
+## 2026 was UFC’s Year of the Upset
 
-Source: MMA Fighting | Published: 2026-11-26T18:00:00+00:00
+Source: MMA Mania | Published: 2026-11-26T22:00:00+00:00
 
-https://www.mmafighting.com/videos/523047/anything-but-fighting-jim-miller-loves-thanksgiving
+https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset
 
-> NEW YORK — UFC lightweight veteran Jim Miller speaks with MMA Fighting’s José Youngs on Anything But Fighting about his love for Thanksgiving, hunting, cooking, his cookbook, preparing and grilling meat, plus more. Miller (39-20) was last seen on the wrong end of a first-round knockout by Terrance McKinney in their catchweight fight at UFC […]
-
-Status: needs verification
-
-## UFC champion Carlos Ulberg and Navajo Stirling’s coach rules out teammates ever fighting
-
-Source: MMA Fighting | Published: 2026-11-26T16:00:00+00:00
-
-https://www.mmafighting.com/ufc/523442/ufc-champion-carlos-ulberg-and-navajo-stirlings-coach-rules-out-teammates-ever-fighting
-
-> Carlos Ulberg vs. Navajo Stirling for the UFC light heavyweight title? It’s not happening. That’s according to the fighters’ coach, City Kickboxing boss Eugene Bareman, who told reporters at a press conference in their gym at Auckland, New Zealand, that there is no way Ulberg will ever defend his title against his longtime friend and […]
+> 2026 has been a very interesting year for those who fight in the Octagon and those of us who watch them do it. The Paramount+ Era has included an event on the White House lawn, the ill-fated return of Conor McGregor and a handful of epic title fights. This year has also seen an unusual […]
 
 Status: needs verification
 
-## UFC champion Carlos Ulberg and Navajo Stirling’s coach rules out teammates ever fighting - MMA Fighting
+## Time to smash! Team Alpha Male Japan crash lands in Italy, captures BMK championship — Part Two
 
-Source: Google News MMA discovery | Published: 2026-11-26T16:00:00+00:00
+Source: MMA Mania | Published: 2026-11-26T22:00:00+00:00
 
-https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDVNaGMtUVdrd3YzcEdHOVpuRnM3R0VEVGNGU21rRDdZWEVtcXRMdnl6d0JoUmNTMVplTWlBdkY0NDB1TEFoM1dWZEk3UzhsNkZFNExvYzRDLTMweTdzdHVBeFVMSTNCTXltN0RHQkhaZG12d05EY2VrbjMtR3J0YnJMcTJtQ0p5WUdVd0JPNW5aZDN2ODFpNzdyb0hqUXVoNEhscUlVQ09SY2RhbGZLSFNsUGJrMURTVkJnSl9zMWhyUVR4?oc=5
+https://www.mmamania.com/regional-mma-news-results/488515/time-to-smash-team-alpha-male-japan-crash-lands-in-italy-captures-bmk-championship-part-two
 
-> UFC champion Carlos Ulberg and Navajo Stirling’s coach rules out teammates ever fighting MMA Fighting
-
-Status: needs verification
-
-## Tai Tuivasa booked for UFC Sydney looking to avoid historic losing streak
-
-Source: MMA Fighting | Published: 2026-11-26T15:00:00+00:00
-
-https://www.mmafighting.com/ufc/523424/tai-tuivasa-booked-for-ufc-sydney-looking-to-avoid-historic-losing-streak
-
-> Tai Tuivasa is fighting to avoid being etched in the UFC history books for the wrong reason. MMA Fighting confirmed with sources with knowledge of the matchup that Tuivasa (14-11) is set to face Jhonata Diniz (9-3) in a heavyweight bout at UFC Sydney on Feb. 6. The bout was first reported by Laerte Viana. […]
+> The preparation, travel, and weight cutting is done (read all there here) — fight day has arrived for Namiki Kawahara and Teruto Ishihara. The lead up to the fights is largely uneventful. For the second time in as many mornings, I wake up at 3AM for absolutely no reason at all, two full hours before […]
 
 Status: needs verification
 
-## Tai Tuivasa booked for UFC Sydney looking to avoid historic losing streak - Yahoo Sports
+## Caio Borralho Warns UFC Could Make Major Move as Sean Strickland Refuses to Defend Middleweight Title - MMA Sucka
+
+Source: Google News MMA discovery | Published: 2026-11-26T20:45:49+00:00
+
+https://news.google.com/rss/articles/CBMixgFBVV95cUxNczRPS1pQM25wMFVKSUlpZnRzb1BiWW8xRlZ5Q3pucllCWjhVRDN0STZYNEtPZmU1WXllMEpOVEs0M09HSG85bndITFdKZmZNT0RyalR0Znp2NHIzOHhHZnBhUXg3NmF6b2ZuajNiYzJUcEM5YkJWOW5iUVc5NHdlWmEwUWZRVkZoWm9fRDItQ0RlbHVHekFXd1gtU0l2UkZKVGxrTXB6TVZUYzNiZDVUVDVQNlE4ckdSbVF3SU8wbkpuTjFPWmc?oc=5
+
+> Caio Borralho Warns UFC Could Make Major Move as Sean Strickland Refuses to Defend Middleweight Title MMA Sucka
+
+Status: needs verification
+
+## Brian Ortega’s UFC Retirement Didn't Shock Tim Welch - MMA Sucka
+
+Source: Google News MMA discovery | Published: 2026-11-26T20:43:46+00:00
+
+https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWp0RGZsM0JRbzVRVGRZaVVPU0g1SEtuXzA0XzhqR0xoZndBNm1DV0pfSWlRclBoa0J2TjNjQWs2d3ZPQjI2YkM0bHo3Y3NuWDdERTZmNDVwbnlUaERoSy1ZemFsR1ZoR1J6REduLTJuTk4yR3JjRUlsMXlULUtzd0xhZEpfYnJIRUE?oc=5
+
+> Brian Ortega’s UFC Retirement Didn't Shock Tim Welch MMA Sucka
+
+Status: needs verification
+
+## Ciryl Gane should not give Josh Hokit a rematch: Matchmaking his second UFC heavyweight title defense - MMA Sucka
+
+Source: Google News MMA discovery | Published: 2026-11-26T20:43:09+00:00
+
+https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXJrZ3BIM2JhV2RONFBZUi11MHQzdkFMVlRNWVF4YUdhLTJmX0phb0M3Yll6Rk9GdE90SGFpS09lRlF3cjM2SHFlQjFUOGhlSS1sZ0hoUTdUbHFIeGtGNEd1TjVhbFR6VUpJVVNMVHlPN1B1aEdPSmszaGJLUlgzdFN4cV8wSEE5dkVTTlF2bVRXM29sNnBLT3JiQl8taERLeXRzVlNfUTEtZ18zZ3BoWXh4UTBORGZDZm9HLTdFcE1IYXdEdU1LUldn?oc=5
+
+> Ciryl Gane should not give Josh Hokit a rematch: Matchmaking his second UFC heavyweight title defense MMA Sucka
+
+Status: needs verification
+
+## Time to smash! Team Alpha Male Japan crash lands in Italy, captures BMK championship — Part One
+
+Source: MMA Mania | Published: 2026-11-26T20:14:00+00:00
+
+https://www.mmamania.com/regional-mma-news-results/488421/time-to-smash-team-alpha-male-japan-crash-lands-in-italy-captures-bmk-championship
+
+> One week ago, Team Alpha Male (TAM) Japan and I arrived at the Sacramento airport with international tickets on hand. Two years prior, I joined Namiki Kawahara on his quest for global Strawweight greatness as he traveled to the United Kingdom to capture the 115-pound Cage Warriors title. I wrote about that journey here and […]
+
+Status: needs verification
+
+## Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch
+
+Source: MMA Fighting | Published: 2026-11-26T20:00:00+00:00
+
+https://www.mmafighting.com/ufc/523465/dricus-du-plessis-claims-ufc-shot-down-khamzat-chimaev-rematch
+
+> Dricus du Plessis has been on the hunt for another fight with Khamzat Chimaev, even if the UFC isn’t interested for now. Chimaev defeated du Plessis at UFC 319 to become middleweight champion, only to subsequently lose the title to Sean Strickland at UFC 328. While Chimaev and Strickland settled their business, du Plessis returned […]
+
+Status: needs verification
+
+## MMA gym divides opinion after blocking UFC title fight between teammates Carlos Ulberg and Navajo Stirling - talkSPORT
+
+Source: Google News MMA discovery | Published: 2026-11-26T15:20:10+00:00
+
+https://news.google.com/rss/articles/CBMimwFBVV95cUxQUl9ONlNiZWduczU5ZnN4YTY5bmJ2elFiUlh1RDV3Vm1DaGtjTmpXWXlNUi1JYl9CajE3UmF3MWhpVk1kY1JuLVJWcm1CdlJ6YXF6Vjg0QU91V09jQVFkT1hmNHNuMVdPX2RuNzlkd3Z1MVMxMzZVdHZfcGhhc040eXVwTGFzZmt6VXk5QW9uZFJranVKOFdwT0FpOA?oc=5
+
+> MMA gym divides opinion after blocking UFC title fight between teammates Carlos Ulberg and Navajo Stirling talkSPORT
+
+Status: needs verification
+
+## Tai Tuivasa booked for UFC Sydney looking to avoid historic losing streak - MMA Fighting
 
 Source: Google News MMA discovery | Published: 2026-11-26T15:00:00+00:00
 
-https://news.google.com/rss/articles/CBMiigFBVV95cUxOSzhuT21tOGg3aEw5bTQtbWRtUUsxZlZSSF9VUnFHM2NFNzFHYVVPWW1KMFpnMy14eG1KeklNclBhTlZyUUlWWlJsa3dWWEV2MnZsX21kUmxhdnlTWV92eExWVkdRZnM3eld6M2QtaU84QTdhZEMxZWMwT0FxUDRqSGR5QW43VkVwVmc?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxPazIxV3ZsOHQ2eDE2RDFUb1FIV2hydHlaNWpnODBZV3JkRmgzUU1aYWJHZFBhYkJUbDFJRWFXOFBrS2tDeHlVa2k4U0JnVjVFZzZpdERhZWU2SzdtR0dtSDRqWk0yWl9Mb3FVTFBLWlhUeGxNTzFHd2tqYTZlQnBES0pkUFhpOHZIVG1SOGR0bmxvN25qVmlUX0tTWDBoaDJHUmRQWkJZUDhkRzBYWHAzVzRB?oc=5
 
-> Tai Tuivasa booked for UFC Sydney looking to avoid historic losing streak Yahoo Sports
-
-Status: needs verification
-
-## Former UFC champion slams Jon Jones rival Josh Hokit as 'King of Cringe' and dismisses fight chances - DAZN
-
-Source: Google News MMA discovery | Published: 2026-11-26T14:46:21+00:00
-
-https://news.google.com/rss/articles/CBMizwFBVV95cUxPMklUREJrdzZZUXVEd3o4djM1eTdvQXhUY3RQWVVKdktMMUlVVXFkNG1lQ3UxOGhidGNsRGRHWWE0VFpfT01FcXZBM1B5LTJnVkRGVnpZRFVOY19CR2UyXzBXLUlfQ09taUhNUFE3TmtZSUhJNWU3eDJRNmtYVTk3MGJBcGlxUHBKeEVoTE4xbENJQTNwZjdHSWJFcmpTQlZkWFFkZi1HcExscUZTMU1tdXVfdDN2cC05WFJSR2dVOTBSR2M5NkFzWFlUbXF3bGc?oc=5
-
-> Former UFC champion slams Jon Jones rival Josh Hokit as 'King of Cringe' and dismisses fight chances DAZN
-
-Status: needs verification
-
-## Lawsuit torpedoes Ryan Garcia vs. Floyd Mayweather fight on Feb. 6 … Teofimo Lopez to the rescue?
-
-Source: MMA Mania | Published: 2026-11-26T14:30:00+00:00
-
-https://www.mmamania.com/boxing/488573/lawsuit-torpedoes-ryan-garcia-vs-floyd-mayweather-fight-feb-6-teofimo-lopez-rescue
-
-> Ryan Garcia previously agreed to defend his WBC welterweight title against undefeated boxing legend Floyd Mayweather Jr. at some point in 2027; however, “Money” has yet to satisfy his contractual obligations with CSI. Their dispute stems from the Mayweather vs. Tyson bout that failed to materialize. “Since Floyd Mayweather has contractual obligations to CSI Sports/FIGHT […]
-
-Status: needs verification
-
-## Dricus Du Plessis confirms next UFC fight: 'Big news will be out soon' - Yahoo
-
-Source: Google News MMA discovery | Published: 2026-11-26T14:15:24+00:00
-
-https://news.google.com/rss/articles/CBMihgFBVV95cUxNVFBmMkNzc205WjM4OGlFOTJWVVBTbnFkaFhMSnQ5cjNfQXZkcXpaOUlISGhfbUxfNzd0OE1paGs5NzliRFlDcjdEQjAxM2R5WEd3RmZnSWVObUpyU1BuZUF6MmwwSWN1b01zSGhZcHZyZXBLS19uRE9MMlM3NzhxclZfNGx6dw?oc=5
-
-> Dricus Du Plessis confirms next UFC fight: 'Big news will be out soon' Yahoo
-
-Status: needs verification
-
-## Josh Hokit teases move to light heavyweight: ‘I need to save this bum division as well’
-
-Source: MMA Mania | Published: 2026-11-26T13:54:39+00:00
-
-https://www.mmamania.com/ufc-news/488586/josh-hokit-teases-move-to-light-heavyweight-i-need-to-save-this-bum-division-as-well
-
-> Josh Hokit isn’t impressed by City Kickboxing’s decision to stop teammates Carlos Ulberg and Navajo Stirling from fighting for the UFC light heavyweight championship. Ulberg won the belt off Jiri Prochazka back in April at UFC 327, but hasn’t fought since due to a knee injury suffered in that fight. Stirling just beat Prochazka as […]
-
-Status: needs verification
-
-## Ex-UFC champion gets honest on Jake Paul’s punching power - Yahoo Sports
-
-Source: Google News MMA discovery | Published: 2026-11-26T12:36:11+00:00
-
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHVZNVZDMTBVT2kyaXdYR0FLdVVqTUZFdEhNNjA4c1lfS1VKVTZlZDIxelhzTHZST2NtVmU1S2dDMFhlUHNwQkpaZmg2ZzRKaXJsWkEtLVp3YmJCVDNnRnMxMUtMQXJRM0pybGpJVHJxdHd4RVNtczVrSjN3X3I4Wl9nejQ2Q2pMOUhV?oc=5
-
-> Ex-UFC champion gets honest on Jake Paul’s punching power Yahoo Sports
-
-Status: needs verification
-
-## Joaquin Buckley challenges former UFC champion to public debate - Sherdog
-
-Source: Google News MMA discovery | Published: 2026-11-26T10:29:52+00:00
-
-https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXE3RE1Oa2VyZWdVa0c5Vkx6T2I5MWFCWDZWZ2VmcVZVaXVtNFpWQU1mOGhBOFhZZVU1SUh3a0pqVlY3eUsyQ2ZicmNKYUMyQXhtU044UlFhcmIyeTZPNVpTN1JDT0twdHRQdmJZWE1sUVB6aDZRVEtTZ2haRC1VVG5SaUloZ3JDM19GVnVkNm1LdWJzc1UtX3JlRnd3aTJGUUQxUVUxTdIBrAFBVV95cUxNZzE5T0MtQVNlR29hcjlBZ2tmdWZ0SVVSbVF5bU8yem54M01uaTFkVE4tU3RlUFZTbUd0dVRuTEhvZnNOZy1YNlk2UnVkeVFyaXRRamRBbjVFRS1uQnNHMzVNMU1xVzQ3ck9WZkZQMUJzY0U1bjN0LVNmbi0yS0JIXzB2bGpvTGItWHJoWndDZ1ViOTBIS21lTjk3NWc3OXRzcmxOak9wVXdvS2Nt?oc=5
-
-> Joaquin Buckley challenges former UFC champion to public debate Sherdog
-
-Status: needs verification
-
-## City Kickboxing head coach shuts down potential Navajo Stirling vs. Carlos Ulberg collision: ‘Never even contemplated’
-
-Source: MMA Mania | Published: 2026-11-26T08:00:00+00:00
-
-https://www.mmamania.com/latest-news/488542/city-kickboxing-head-coach-shuts-down-potential-navajo-stirling-vs-carlos-ulberg-collision-never-even-contemplated
-
-> Surging Light Heavyweight knockout artist Navajo Stirling has earned a UFC title shot … if he wants it. The 29-year-old Kiwi won four bouts this year, extending his undefeated record to 12-0 with seven of those victories coming inside the Octagon. Not only is Stirling winning, but he’s knocking out opponents left and right, including […]
-
-Status: needs verification
-
-## UFC champion Carlos Ulberg & Navajo Stirling will never fight, coach says - Sherdog
-
-Source: Google News MMA discovery | Published: 2026-11-26T06:30:32+00:00
-
-https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzd4VHNjMjRwWDdsTlpkNDFPaXJhM3QzNVRiR0YzSlN0RlZIN0c3RWdwTnJJbHpRNFhSd0EyaklNSEkydnJaWThLSkMxN3dXWU9JaHN3WXEycUZHLTY0aVFEUFhwaHZEVGhHM0FHU0dVQ1JGS3lSeUJOVTZ1a1kxOUt5Z0MyUXl5YldPWlIxUTd0RVZaNU5za2NybUlfcEFhVktBRlVURUpRTXF0d1Z1MtIBtgFBVV95cUxPa2FUSDlweTJiWG5GV1Q2NHVkWnJndEdRUWRpUXNtXzRaUkYyMVE1MW5Od2NuV2FRaDNybHFIekNoR3BrdWtvMWgwNWhOX0xnb0M5bDdCb0JjejdNQ2c2N1F0UzFReWlRd1dKYkpQcHdVendYMzB5OW51UkNTMks2d1h5NW5TbFIzeGx2dHR1RmwtNEJpbi1HUHFEMTcwQkZSTi1sc0ZuR2ZIZWQzN2o2WFlKajFKdw?oc=5
-
-> UFC champion Carlos Ulberg & Navajo Stirling will never fight, coach says Sherdog
-
-Status: needs verification
-
-## UFC champion Carlos Ulberg & Navajo Stirling will never fight, coach says - Yahoo Sports
-
-Source: Google News MMA discovery | Published: 2026-11-26T06:24:00+00:00
-
-https://news.google.com/rss/articles/CBMijwFBVV95cUxQc0xCdlYycUhGeGZmenFGWXFtR24yMVYxczFBTlNFdGtfUEVrdUFlaWdOVzhxQ2VNR01rNkRfLTBfOWliVmVzeE1GaFZWWk1tV05OLUF4RjNOaEJhd2Jxc2wyX3BlZEd1OG9iaGZ4eXJSSmNiTUhEVjVzNDdnSW1FYWM5T2pqX2RjUWZ6bEY3NA?oc=5
-
-> UFC champion Carlos Ulberg & Navajo Stirling will never fight, coach says Yahoo Sports
-
-Status: needs verification
-
-## Aljamain Sterling struggles to regain championship form in UFC - New York Amsterdam News
-
-Source: Google News MMA discovery | Published: 2026-11-26T05:00:00+00:00
-
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT0RmUWV4cnU3SVdLcWtDTENNRkpvLThHTWNTdElLU1h3OWJGTGZZMXZ2M0EzS3BWWFZfcWUteEZmYVFGTUxWZVFUN2ZhLU1lbjFkQkFDZEllanJwb1huaDl1cmtlM01fUEdrc3dnczF3LW5CZ3ZFa05VMU1meEtxTlVyVEYyVndkcUtmV2hVTHpQQncyQzZmOWVSZXByWG5BZEdfUXpSZ1M?oc=5
-
-> Aljamain Sterling struggles to regain championship form in UFC New York Amsterdam News
-
-Status: needs verification
-
-## Islam Makhachev Beginning Prep for Title Fight in New Year - MMA Sucka
-
-Source: Google News MMA discovery | Published: 2026-11-26T02:48:59+00:00
-
-https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWo1SFg5WnltQnJicTJVUDQwcVd1SUs5cGZTTEJ2NlhLNFZISVpiNEQ0bkJETms3NFA2ZTRhTlVlYVF0OElhYUx5TVM0cTFJeDVXY3BET3JYdXdEZHh1WHhiblI2bEtGRmlXbUJsR0FFZGxheXcwZE01QjVKcnV3Y3VfR2UyWXFFbGxic0xVNlJNT2x3Sm04?oc=5
-
-> Islam Makhachev Beginning Prep for Title Fight in New Year MMA Sucka
-
-Status: needs verification
-
-## Coach Eugene Bareman shuts down any chance of Carlos Ulberg vs. Navajo Stirling UFC title fight - Yahoo Sports
-
-Source: Google News MMA discovery | Published: 2026-11-26T01:15:00+00:00
-
-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcGhpVjhSVHpwXzJWR0o2NV9NVTkwYnoteG1zWWx5UkhTam5zcFVEWGpKQ0pWajFGY0FuRjc4ZzB4bU1SN1JLZ1Z6eU1kN2hjMzJOWGd1ZTd0QldnVlQ1MGR5Y3RyZ1FnTVMzMkxyVDZGRm1qaGdsUzZ1ZlJQS3Z3RkFUVWNtOGlscmFYR05pelZTNXRQSHZ6VWh5bktHWk9wQWlTb3BSSU5UbVlfQS03c0tDVmxXa0g5QmJLVGVGY09rOHFMb1ZUWFVsSkVDaDJ2aVdvUkIwaDhGVjFZLU9j?oc=5
-
-> Coach Eugene Bareman shuts down any chance of Carlos Ulberg vs. Navajo Stirling UFC title fight Yahoo Sports
-
-Status: needs verification
-
-## Former UFC star Anthony Smith breaks silence after felony domestic violence charges dismissed — ‘My silence was never a surrender’
-
-Source: MMA Mania | Published: 2026-11-26T01:00:00+00:00
-
-https://www.mmamania.com/latest-news/488492/former-ufc-star-anthony-smith-breaks-silence-after-felony-domestic-violence-charges-dismissed-my-silence-was-never-a-surrender
-
-> Anthony Smith is speaking publicly in detail for the first time after all four felony charges stemming from his July arrest were dismissed. The former Ultimate Fighting Championship (UFC) Light Heavyweight title challenger was arrested in Nebraska on July 27 following an alleged domestic incident involving his wife one night earlier. Smith was charged with […]
-
-Status: needs verification
-
-## Failed test to title shot! Daniel Dubois defends WBO crown against Joseph Parker on Jan. 30
-
-Source: MMA Mania | Published: 2026-11-26T00:00:00+00:00
-
-https://www.mmamania.com/boxing/488488/failed-test-to-title-shot-daniel-dubois-defends-wbo-crown-against-joseph-parker-on-jan-30
-
-> Joseph Parker lost his interim title fight, failed a drug test, and spent more than one year away from boxing. Naturally, he is returning directly into another world title fight. WBO Heavyweight champion Daniel Dubois will defend his belt against Parker on Sat., Jan. 30, 2027, inside Co-op Live in Manchester, England. The heavyweight showdown […]
-
-Status: needs verification
-
-## Charges dismissed against Anthony Smith after July arrest; Smith releases statement
-
-Source: MMA Fighting | Published: 2026-11-25T23:56:07+00:00
-
-https://www.mmafighting.com/ufc/523375/charges-dismissed-against-anthony-smith-after-july-arrest-smith-releases-statement
-
-> Former UFC title challenger Anthony Smith had the criminal charges against him dismissed after he was initially arrested back in July. On Wednesday, the Sarpy County district attorney announced that the charges against Smith had been dropped. Smith pleaded not guilty during his arraignment after he was charged with four felonoes, including an attempt of […]
-
-Status: needs verification
-
-## Stipe Miocic predicts who ‘would have the edge’ in hypothetical Jon Jones vs. Francis Ngannou matchup
-
-Source: MMA Fighting | Published: 2026-11-25T21:00:00+00:00
-
-https://www.mmafighting.com/ufc/523361/stipe-miocic-predicts-who-would-have-the-edge-in-hypothetical-jon-jones-vs-francis-ngannou-matchup
-
-> Stipe Miocic has faced both Jon Jones and Francis Ngannou in the UFC octagon, and while the promotion had chances to make a fight between Jones and Ngannou happen, they couldn’t get it over the goal line. The former, two-time UFC heavyweight champion split a two-fight series with Ngannou, and was stopped by Jones in […]
-
-Status: needs verification
-
-## Eddie Cha, famed coach of UFC champions, dies at 53 - Yahoo Sports
-
-Source: Google News MMA discovery | Published: 2026-11-25T19:23:58+00:00
-
-https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHFjemhNY3ZuMWh5Uy04emp0c1g5c0poMmpjUzJidnhpZnNWVS00VGo0OEZzYlRaVXUzMTJjNEVjN2tKWFF3NzRTQXVGYlJiSVRaRktLX1h4dUc3RUVDQnN4NXdjRDdybHVFd201VnVEZ01oamZiV0hQYzVqOERKNDRPTHZaVWw1N2ptOVNhblR1bl9ydGdoNk1odw?oc=5
-
-> Eddie Cha, famed coach of UFC champions, dies at 53 Yahoo Sports
-
-Status: needs verification
-
-## RAF 15 match card, start time for Arman Tsarukyan vs. Anthony Pettis
-
-Source: MMA Fighting | Published: 2026-11-25T19:00:00+00:00
-
-https://www.mmafighting.com/raf-wrestling/523355/raf-15-match-card-start-time-for-arman-tsarukyan-vs-anthony-pettis
-
-> At RAF 15, there will be a plethora of RAF gold up for grabs Saturday night. Arman Tsarukyan continues to stay busy on the wrestling mats, squaring off against former UFC champion Anthony Pettis in a middleweight crossover title match in the co-main event at NOW Arena in Hoffman Estates, Ill. Former two-division UFC champion […]
+> Tai Tuivasa booked for UFC Sydney looking to avoid historic losing streak MMA Fighting
 
 Status: needs verification
