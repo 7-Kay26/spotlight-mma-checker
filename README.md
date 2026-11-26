@@ -33,7 +33,7 @@ Read `reports/latest.md` or `reports/latest.json`. Run the checker a second time
 
 ## Deploy to GitHub
 
-1. Create a **private**, empty GitHub repository named `spotlight-mma-checker`. Repository creation requires permissions the current connected GitHub integration does not have.
+1. Create a **private**, empty GitHub repository named `spotlight-mma-checker`. The user-created repository is https://github.com/7-Kay26/spotlight-mma-checker (public).
 2. Push this local Git repository, including `.github/workflows/check-news.yml`:
 
    ```sh
@@ -67,4 +67,4 @@ Reports include feed excerpts and links, not full scraped articles. Text from fe
 
 ## Validation
 
-Unit tests passed. An initial live fetch succeeded for all three default feeds and produced 31 matching candidates. This validates collection, not the accuracy of those claims. No remote repository, hosted schedule, chat integration or social publishing has been deployed.
+Unit tests passed. An initial live fetch succeeded for all three default feeds and produced 31 matching candidates. This validates collection, not the accuracy of those claims. See the GitHub Actions run history for hosted execution status. No chat integration or social publishing is deployed.
