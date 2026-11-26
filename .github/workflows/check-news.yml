@@ -1,0 +1,53 @@
+name: Check MMA news
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+    inputs:
+      create_issue:
+        description: Create a GitHub issue for new candidates
+        type: boolean
+        default: false
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: mma-checker
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+      - run: python checker.py
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mma-news-report
+          path: reports/
+          retention-days: 14
+      - name: Notify via issue when enabled
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          ISSUE_ENABLED: ${{ vars.CREATE_NEWS_ISSUES == 'true' || inputs.create_issue == true }}
+        run: |
+          count=$(python -c 'import json; print(json.load(open("reports/latest.json"))["new_count"])')
+          if [ "$ISSUE_ENABLED" = "true" ] && [ "$count" -gt 0 ]; then
+            gh issue create --title "MMA candidates — $(date -u +%Y-%m-%dT%H:%MZ)" --body-file reports/latest.md
+          fi
+      - name: Persist duplicate history
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/seen.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update news duplicate history'
+            git push
+          fi

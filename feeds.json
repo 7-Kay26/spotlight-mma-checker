@@ -1,0 +1,10 @@
+{
+  "lookback_hours": 24,
+  "mma_pattern": "\\b(UFC|MMA|mixed martial arts|PFL|ONE Championship)\\b",
+  "news_pattern": "\\b(cancel\\w*|postpon\\w*|reschedul\\w*|withdraw\\w*|injur\\w*|announc\\w*|confirm\\w*|book\\w*|sign\\w*|replac\\w*|results?|defeat\\w*|knockout|retir\\w*|suspend\\w*|title|champion\\w*)\\b",
+  "feeds": [
+    {"name":"MMA Fighting","url":"https://www.mmafighting.com/rss/index.xml","mma_only":true},
+    {"name":"MMA Mania","url":"https://www.mmamania.com/rss/index.xml","mma_only":true},
+    {"name":"Google News MMA discovery","url":"https://news.google.com/rss/search?q=UFC+OR+%22mixed+martial+arts%22+when:1d&hl=en-US&gl=US&ceid=US:en","mma_only":false}
+  ]
+}
