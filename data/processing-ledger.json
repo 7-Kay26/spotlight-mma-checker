@@ -243,11 +243,109 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-26T20:40:58Z",
-    "queue_checked_at": "2026-11-26T18:50:31.146230+00:00",
-    "queue_age_minutes": 110,
+    "checked_at": "2026-11-26T22:04:00Z",
+    "queue_checked_at": "2026-11-26T22:03:11.184541+00:00",
     "feed_errors": [],
     "published": 0,
-    "notes": "Queue unchanged; all 23 candidates already assessed or awaiting primary verification. No new unprocessed candidate. Last report remains within two-hour freshness threshold. No repeated source, logo, browser or YouTube blocker notifications."
+    "notes": "Stale source recovered by one manual workflow dispatch. 9 newly collected candidates assessed; no qualifying new confirmed story."
+  },
+  "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
+    "story": "2026 was UFC’s Year of the Upset",
+    "status": "not_selected",
+    "reason": "Annual retrospective/opinion, not fresh confirmed news.",
+    "sources": [
+      "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset"
+    ],
+    "assessed_at": "2026-11-26T22:04:00Z",
+    "published_links": {}
+  },
+  "https://www.mmamania.com/regional-mma-news-results/488515/time-to-smash-team-alpha-male-japan-crash-lands-in-italy-captures-bmk-championship-part-two": {
+    "story": "Time to smash! Team Alpha Male Japan crash lands in Italy, captures BMK championship — Part Two",
+    "status": "not_selected",
+    "reason": "Read original two-part account: retrospective trip diary covering November 21 fights, not a newly occurring result.",
+    "sources": [
+      "https://www.mmamania.com/regional-mma-news-results/488515/time-to-smash-team-alpha-male-japan-crash-lands-in-italy-captures-bmk-championship-part-two"
+    ],
+    "assessed_at": "2026-11-26T22:04:00Z",
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNczRPS1pQM25wMFVKSUlpZnRzb1BiWW8xRlZ5Q3pucllCWjhVRDN0STZYNEtPZmU1WXllMEpOVEs0M09HSG85bndITFdKZmZNT0RyalR0Znp2NHIzOHhHZnBhUXg3NmF6b2ZuajNiYzJUcEM5YkJWOW5iUVc5NHdlWmEwUWZRVkZoWm9fRDItQ0RlbHVHekFXd1gtU0l2UkZKVGxrTXB6TVZUYzNiZDVUVDVQNlE4ckdSbVF3SU8wbkpuTjFPWmc?oc=5": {
+    "story": "Caio Borralho Warns UFC Could Make Major Move as Sean Strickland Refuses to Defend Middleweight Title - MMA Sucka",
+    "status": "not_selected",
+    "reason": "Opinion or speculative matchmaking; no confirmed new event change.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxNczRPS1pQM25wMFVKSUlpZnRzb1BiWW8xRlZ5Q3pucllCWjhVRDN0STZYNEtPZmU1WXllMEpOVEs0M09HSG85bndITFdKZmZNT0RyalR0Znp2NHIzOHhHZnBhUXg3NmF6b2ZuajNiYzJUcEM5YkJWOW5iUVc5NHdlWmEwUWZRVkZoWm9fRDItQ0RlbHVHekFXd1gtU0l2UkZKVGxrTXB6TVZUYzNiZDVUVDVQNlE4ckdSbVF3SU8wbkpuTjFPWmc?oc=5"
+    ],
+    "assessed_at": "2026-11-26T22:04:00Z",
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWp0RGZsM0JRbzVRVGRZaVVPU0g1SEtuXzA0XzhqR0xoZndBNm1DV0pfSWlRclBoa0J2TjNjQWs2d3ZPQjI2YkM0bHo3Y3NuWDdERTZmNDVwbnlUaERoSy1ZemFsR1ZoR1J6REduLTJuTk4yR3JjRUlsMXlULUtzd0xhZEpfYnJIRUE?oc=5": {
+    "story": "Brian Ortega’s UFC Retirement Didn't Shock Tim Welch - MMA Sucka",
+    "status": "not_selected",
+    "reason": "Reaction to prior retirement, not a newly confirmed retirement announcement.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWp0RGZsM0JRbzVRVGRZaVVPU0g1SEtuXzA0XzhqR0xoZndBNm1DV0pfSWlRclBoa0J2TjNjQWs2d3ZPQjI2YkM0bHo3Y3NuWDdERTZmNDVwbnlUaERoSy1ZemFsR1ZoR1J6REduLTJuTk4yR3JjRUlsMXlULUtzd0xhZEpfYnJIRUE?oc=5"
+    ],
+    "assessed_at": "2026-11-26T22:04:00Z",
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXJrZ3BIM2JhV2RONFBZUi11MHQzdkFMVlRNWVF4YUdhLTJmX0phb0M3Yll6Rk9GdE90SGFpS09lRlF3cjM2SHFlQjFUOGhlSS1sZ0hoUTdUbHFIeGtGNEd1TjVhbFR6VUpJVVNMVHlPN1B1aEdPSmszaGJLUlgzdFN4cV8wSEE5dkVTTlF2bVRXM29sNnBLT3JiQl8taERLeXRzVlNfUTEtZ18zZ3BoWXh4UTBORGZDZm9HLTdFcE1IYXdEdU1LUldn?oc=5": {
+    "story": "Ciryl Gane should not give Josh Hokit a rematch: Matchmaking his second UFC heavyweight title defense - MMA Sucka",
+    "status": "not_selected",
+    "reason": "Opinion or speculative matchmaking; no confirmed new event change.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXJrZ3BIM2JhV2RONFBZUi11MHQzdkFMVlRNWVF4YUdhLTJmX0phb0M3Yll6Rk9GdE90SGFpS09lRlF3cjM2SHFlQjFUOGhlSS1sZ0hoUTdUbHFIeGtGNEd1TjVhbFR6VUpJVVNMVHlPN1B1aEdPSmszaGJLUlgzdFN4cV8wSEE5dkVTTlF2bVRXM29sNnBLT3JiQl8taERLeXRzVlNfUTEtZ18zZ3BoWXh4UTBORGZDZm9HLTdFcE1IYXdEdU1LUldn?oc=5"
+    ],
+    "assessed_at": "2026-11-26T22:04:00Z",
+    "published_links": {}
+  },
+  "https://www.mmamania.com/regional-mma-news-results/488421/time-to-smash-team-alpha-male-japan-crash-lands-in-italy-captures-bmk-championship": {
+    "story": "Time to smash! Team Alpha Male Japan crash lands in Italy, captures BMK championship — Part One",
+    "status": "not_selected",
+    "reason": "Read original two-part account: retrospective trip diary covering November 21 fights, not a newly occurring result.",
+    "sources": [
+      "https://www.mmamania.com/regional-mma-news-results/488421/time-to-smash-team-alpha-male-japan-crash-lands-in-italy-captures-bmk-championship"
+    ],
+    "assessed_at": "2026-11-26T22:04:00Z",
+    "published_links": {}
+  },
+  "https://www.mmafighting.com/ufc/523465/dricus-du-plessis-claims-ufc-shot-down-khamzat-chimaev-rematch": {
+    "story": "Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch",
+    "status": "not_selected",
+    "reason": "Opinion or speculative matchmaking; no confirmed new event change.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523465/dricus-du-plessis-claims-ufc-shot-down-khamzat-chimaev-rematch"
+    ],
+    "assessed_at": "2026-11-26T22:04:00Z",
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUl9ONlNiZWduczU5ZnN4YTY5bmJ2elFiUlh1RDV3Vm1DaGtjTmpXWXlNUi1JYl9CajE3UmF3MWhpVk1kY1JuLVJWcm1CdlJ6YXF6Vjg0QU91V09jQVFkT1hmNHNuMVdPX2RuNzlkd3Z1MVMxMzZVdHZfcGhhc040eXVwTGFzZmt6VXk5QW9uZFJranVKOFdwT0FpOA?oc=5": {
+    "story": "MMA gym divides opinion after blocking UFC title fight between teammates Carlos Ulberg and Navajo Stirling - talkSPORT",
+    "status": "not_selected",
+    "reason": "Recycled teammate-matchup discussion already assessed.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUl9ONlNiZWduczU5ZnN4YTY5bmJ2elFiUlh1RDV3Vm1DaGtjTmpXWXlNUi1JYl9CajE3UmF3MWhpVk1kY1JuLVJWcm1CdlJ6YXF6Vjg0QU91V09jQVFkT1hmNHNuMVdPX2RuNzlkd3Z1MVMxMzZVdHZfcGhhc040eXVwTGFzZmt6VXk5QW9uZFJranVKOFdwT0FpOA?oc=5"
+    ],
+    "assessed_at": "2026-11-26T22:04:00Z",
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazIxV3ZsOHQ2eDE2RDFUb1FIV2hydHlaNWpnODBZV3JkRmgzUU1aYWJHZFBhYkJUbDFJRWFXOFBrS2tDeHlVa2k4U0JnVjVFZzZpdERhZWU2SzdtR0dtSDRqWk0yWl9Mb3FVTFBLWlhUeGxNTzFHd2tqYTZlQnBES0pkUFhpOHZIVG1SOGR0bmxvN25qVmlUX0tTWDBoaDJHUmRQWkJZUDhkRzBYWHAzVzRB?oc=5": {
+    "story": "Tai Tuivasa booked for UFC Sydney looking to avoid historic losing streak - MMA Fighting",
+    "status": "duplicate_published",
+    "reason": "Duplicate of Tuivasa–Diniz booking already published to X.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazIxV3ZsOHQ2eDE2RDFUb1FIV2hydHlaNWpnODBZV3JkRmgzUU1aYWJHZFBhYkJUbDFJRWFXOFBrS2tDeHlVa2k4U0JnVjVFZzZpdERhZWU2SzdtR0dtSDRqWk0yWl9Mb3FVTFBLWlhUeGxNTzFHd2tqYTZlQnBES0pkUFhpOHZIVG1SOGR0bmxvN25qVmlUX0tTWDBoaDJHUmRQWkJZUDhkRzBYWHAzVzRB?oc=5"
+    ],
+    "assessed_at": "2026-11-26T22:04:00Z",
+    "published_links": {}
+  },
+  "_collector_health": {
+    "status": "manual_refresh_recovered_schedule_unverified",
+    "observed_at": "2026-11-26T22:04:00Z",
+    "workflow_state": "active",
+    "observed_scheduled_runs": 0,
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45902222923",
+    "manual_recovery_result": "success",
+    "alert_reported": true
   }
 }
