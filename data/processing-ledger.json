@@ -243,12 +243,11 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-26T22:50:07Z",
-    "queue_checked_at": "2026-11-26T22:03:11.184541+00:00",
-    "queue_age_minutes": 47,
+    "checked_at": "2026-11-27T00:16:00Z",
+    "queue_checked_at": "2026-11-27T00:15:24.631220+00:00",
     "feed_errors": [],
     "published": 0,
-    "notes": "No unprocessed candidates; report fresh. No repeated collector-schedule, logo or unsupported-platform blocker notification."
+    "notes": "One catch-up workflow succeeded after report exceeded freshness threshold. Three new candidates were profile/opinion/recycled commentary; no qualifying story. Previously reported scheduler blocker unchanged; no repeated notification."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -342,11 +341,41 @@
   },
   "_collector_health": {
     "status": "manual_refresh_recovered_schedule_unverified",
-    "observed_at": "2026-11-26T22:04:00Z",
+    "observed_at": "2026-11-27T00:16:00Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 0,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45902222923",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45915651023",
     "manual_recovery_result": "success",
     "alert_reported": true
+  },
+  "https://www.mmamania.com/mma-prospects/488391/mmamania-coms-prospect-of-the-month-sebastian-oyervidez": {
+    "story": "MMAmania.com’s ‘Prospect of the Month:’ Sebastian Oyervidez",
+    "status": "not_selected",
+    "reason": "Prospect profile, not a newly confirmed fight announcement, result or material change.",
+    "assessed_at": "2026-11-27T00:16:00Z",
+    "sources": [
+      "https://www.mmamania.com/mma-prospects/488391/mmamania-coms-prospect-of-the-month-sebastian-oyervidez"
+    ],
+    "published_links": {}
+  },
+  "https://www.mmamania.com/ufc-news/488647/ilia-topurias-ex-coach-blames-entourage-for-making-el-matador-soft-and-comfortable": {
+    "story": "Ilia Topuria’s ex-coach blames entourage for making ‘El Matador’ soft and comfortable",
+    "status": "not_selected",
+    "reason": "Attributed coach criticism/opinion, not a confirmed material fight development.",
+    "assessed_at": "2026-11-27T00:16:00Z",
+    "sources": [
+      "https://www.mmamania.com/ufc-news/488647/ilia-topurias-ex-coach-blames-entourage-for-making-el-matador-soft-and-comfortable"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZG4tTDhReS0xVHJVdEVaMVRVelNRQmJoVkJVNDlPSVZrYnA1dGU5ZzFQc3U0Z3ZRSHhnQTVKd0NwVTVaU1NPOXZoN2d6a3ZrV2Y2emFmYXJ2b1lyVWd6VE95MVR1bldkMlRQMkhQc2J3dkpiYUpfdG1Qei1ld3cxZWNGN3RYQ3U3cC1KMVVsRW1uMS1aRDJz?oc=5": {
+    "story": "Why Kiwi UFC stars won't fight each other for world title - 1News",
+    "status": "not_selected",
+    "reason": "Recycled Ulberg–Stirling teammate matchup discussion already assessed.",
+    "assessed_at": "2026-11-27T00:16:00Z",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZG4tTDhReS0xVHJVdEVaMVRVelNRQmJoVkJVNDlPSVZrYnA1dGU5ZzFQc3U0Z3ZRSHhnQTVKd0NwVTVaU1NPOXZoN2d6a3ZrV2Y2emFmYXJ2b1lyVWd6VE95MVR1bldkMlRQMkhQc2J3dkpiYUpfdG1Qei1ld3cxZWNGN3RYQ3U3cC1KMVVsRW1uMS1aRDJz?oc=5"
+    ],
+    "published_links": {}
   }
 }
