@@ -243,18 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T15:25:13Z",
-    "queue_checked_at": "2026-11-27T13:26:55.298303+00:00",
-    "queue_age_minutes": 118,
-    "feed_errors": [
-      {
-        "source": "Google News MMA discovery",
-        "error": "HTTP Error 503: Service Unavailable"
-      }
-    ],
-    "assessed": 0,
+    "checked_at": "2026-11-27T15:55:03Z",
+    "queue_checked_at": "2026-11-27T15:53:35.563721+00:00",
+    "feed_errors": [],
+    "assessed": 10,
     "published": 0,
-    "notes": "All 40 queued candidates already assessed; report remains within two-hour freshness threshold. Google feed error is from the previously recorded collector run, whose direct health retry succeeded. No new qualifying story or actionable blocker."
+    "notes": "Refreshed stale collector by manual workflow. Ten new candidates assessed: commentary, recycled reporting, or duplicate published story. Original weigh-in article date contradicts discovery freshness. No qualifying newly confirmed development."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -348,21 +342,16 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-27T13:27:40Z",
+    "observed_at": "2026-11-27T15:55:03Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 1,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46007150452",
-    "manual_recovery_result": "success_with_google_feed_error",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46028870639",
+    "manual_recovery_result": "success",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45927364484",
     "latest_scheduled_result": "success",
     "schedule_blocker_resolved": false,
-    "latest_feed_errors": [
-      {
-        "source": "Google News MMA discovery",
-        "error": "HTTP Error 503: Service Unavailable"
-      }
-    ],
+    "latest_feed_errors": [],
     "google_news_retry": {
       "status": 200,
       "bytes": 130152,
@@ -447,6 +436,111 @@
     "reason": "Fighter opinion about interim-title legitimacy; minor commentary, no new confirmed bout or promotion development.",
     "sources": [
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzJFYWNiNGtjWGdPNHA5d1hfVlRYSzZqZmkzbmZ0Nlh1TWVid2VLOGRQY1VsVTBsY3FnV0lzaUxvYjZvMmI1SEpWdnp4LW9ZOGU4NS1iZUpzdVZlUkJBSmoyNHdfSjZFSUtXdy04M1ZLZkt2V3hJSll6ekxzTXdmU3VmZTkwV0dmQkE?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://www.mmamania.com/upcoming-ufc-events/488712/camp-change-unlikely-save-israel-adesanyas-career-ufc-saudi-arabia-no-scenario-where-izzy-gets-better": {
+    "title": "Camp change unlikely to save Israel Adesanya’s career at UFC Saudi Arabia — ‘No scenario where Izzy gets better’",
+    "assessed_at": "2026-11-27T15:55:03Z",
+    "status": "not_selected",
+    "reason": "Minor fighter or analyst commentary without a newly confirmed booking, cancellation or event change.",
+    "sources": [
+      "https://www.mmamania.com/upcoming-ufc-events/488712/camp-change-unlikely-save-israel-adesanyas-career-ufc-saudi-arabia-no-scenario-where-izzy-gets-better"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanRqbDhZTEdtMXB6SG9yMnJ6YXdDazRVWkxRV2lIOEUtRlJobnh3V3V5Zl94cjBwUFBVLVN3MzRsTTRqWExBaWtmS2F2YnByUl9ubU9UbHlIXzhzWUpfUGZSVEMtRWN4WHhPbGNYUEJKWTR2WktMdFVPQS1SRmhBb3JJRFZPNkFwejJ3dQ?oc=5": {
+    "title": "Tony Ferguson’s UFC losing streak record could be surpassed in 2027 after new fight announcement - Yahoo Sports",
+    "assessed_at": "2026-11-27T15:55:03Z",
+    "status": "duplicate_published",
+    "reason": "Full Yahoo/HITC article revisits already-published Tuivasa–Diniz booking; no new bout change. No repost.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanRqbDhZTEdtMXB6SG9yMnJ6YXdDazRVWkxRV2lIOEUtRlJobnh3V3V5Zl94cjBwUFBVLVN3MzRsTTRqWExBaWtmS2F2YnByUl9ubU9UbHlIXzhzWUpfUGZSVEMtRWN4WHhPbGNYUEJKWTR2WktMdFVPQS1SRmhBb3JJRFZPNkFwejJ3dQ?oc=5",
+      "https://sports.yahoo.com/mma/articles/tony-ferguson-ufc-losing-streak-141127539.html"
+    ],
+    "published_links": {}
+  },
+  "https://www.mmafighting.com/ufc/521741/manel-kape-warns-joshua-van-his-time-is-coming-at-ufc-336-its-the-end-of-the-road": {
+    "title": "Manel Kape warns Joshua Van his time is coming at UFC 336: ‘It’s the end of the road’",
+    "assessed_at": "2026-11-27T15:55:03Z",
+    "status": "not_selected",
+    "reason": "Minor fighter or analyst commentary without a newly confirmed booking, cancellation or event change.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/521741/manel-kape-warns-joshua-van-his-time-is-coming-at-ufc-336-its-the-end-of-the-road"
+    ],
+    "published_links": {}
+  },
+  "https://www.mmamania.com/ufc-news/488706/muhammad-mokaev-has-moved-on-from-trying-to-re-enter-ufc-i-make-10x-money-outside": {
+    "title": "Muhammad Mokaev has moved on from trying to re-enter UFC: ‘I make 10x money outside’",
+    "assessed_at": "2026-11-27T15:55:03Z",
+    "status": "not_selected",
+    "reason": "Minor fighter or analyst commentary without a newly confirmed booking, cancellation or event change.",
+    "sources": [
+      "https://www.mmamania.com/ufc-news/488706/muhammad-mokaev-has-moved-on-from-trying-to-re-enter-ufc-i-make-10x-money-outside"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zeGZYQUMxM0ZueS1PLU1sZV9zV2VJS3kwMDVfTHl0RTk1WFNyQW5fUDduME9WSkFtYmFjZXBsc05pQUxETl8xcGJLejlXUWhmS3YzOUs4MjlkcVh5Y1ZRNmFhbTR2bHo2RC1qb1k0ZklGRURYcl8tSFc5QUwzUQ?oc=5": {
+    "title": "Joe Rogan explains why a 13-time jiu-jitsu world champion has failed in the UFC - Yahoo",
+    "assessed_at": "2026-11-27T15:55:03Z",
+    "status": "not_selected",
+    "reason": "Minor fighter or analyst commentary without a newly confirmed booking, cancellation or event change.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zeGZYQUMxM0ZueS1PLU1sZV9zV2VJS3kwMDVfTHl0RTk1WFNyQW5fUDduME9WSkFtYmFjZXBsc05pQUxETl8xcGJLejlXUWhmS3YzOUs4MjlkcVh5Y1ZRNmFhbTR2bHo2RC1qb1k0ZklGRURYcl8tSFc5QUwzUQ?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZbG1sY2lNUFVkNms3a0p6Q19BdndYX0dvcS1mV1JNekc4Ym9PZ0VwU2ZtdmFGQmZnMW9ZeWJ2YWE3Y2NQM1RHaWZtbEt5a1huZGU5VQ?oc=5": {
+    "title": "Dricus du Plessis Confirms Next UFC Fight Is Agreed, But Khamzat Chimaev Rematch Rejected - Fighters Only",
+    "assessed_at": "2026-11-27T15:55:03Z",
+    "status": "not_selected",
+    "reason": "Recycled teaser from previously assessed interview: no named signed opponent or confirmed date. No new booking established.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZbG1sY2lNUFVkNms3a0p6Q19BdndYX0dvcS1mV1JNekc4Ym9PZ0VwU2ZtdmFGQmZnMW9ZeWJ2YWE3Y2NQM1RHaWZtbEt5a1huZGU5VQ?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbFg2VnhnZjBOaGhRTTRtNm5ZbFNlMER5MWlzMWVRZWdlamF4SkdLcXhITFV3VkVsRUdXQWhMNmxpdm9ubUFmNDN5YTFMLWNhR1ZQY3ZnYUt0SjdfQmk2cFdrUTJjTDJvSV8wVlhKSFRlNE9vaDlkV0IwZGpHM0UyUnFCQUJ4VDRQMkNEcmhnMA?oc=5": {
+    "title": "New UFC signing described as a possible attempt to sabotage Conor McGregor if he leaves - Yahoo",
+    "assessed_at": "2026-11-27T15:55:03Z",
+    "status": "not_selected",
+    "reason": "HITC explicitly presents Helwani's speculative theory about previously announced Perry signing; he says he has no information proving the theory. Skip speculation.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbFg2VnhnZjBOaGhRTTRtNm5ZbFNlMER5MWlzMWVRZWdlamF4SkdLcXhITFV3VkVsRUdXQWhMNmxpdm9ubUFmNDN5YTFMLWNhR1ZQY3ZnYUt0SjdfQmk2cFdrUTJjTDJvSV8wVlhKSFRlNE9vaDlkV0IwZGpHM0UyUnFCQUJ4VDRQMkNEcmhnMA?oc=5",
+      "https://www.hitc.com/new-ufc-signing-described-as-a-possible-attempt-to-sabotage-conor-mcgregor-if-he-leaves/"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKdFp3X2tpeEZnbnVQWEI0aGh0M25CaEZFTG5CYzFrRjRnZFhOLVlvNTFvTmNJb0VhVW94UlZZSGJycjZLdFQ4TVUzdHh4QzJCbnJxZ2xSY0RXUGtKNC1ZcEhlVDYydUpNbU1rWHZQR3FhN1pSWHBXSHRibw?oc=5": {
+    "title": "UFC 334 weigh-in results and video – Gane vs. Hokit - MyMMANews",
+    "assessed_at": "2026-11-27T15:55:03Z",
+    "status": "not_selected",
+    "reason": "Recycled event report. Original MyMMANews metadata published November 13 2026 15:57 UTC, modified November 13 17:43 UTC; Google discovery timestamp November 27 is not original publication date.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKdFp3X2tpeEZnbnVQWEI0aGh0M25CaEZFTG5CYzFrRjRnZFhOLVlvNTFvTmNJb0VhVW94UlZZSGJycjZLdFQ4TVUzdHh4QzJCbnJxZ2xSY0RXUGtKNC1ZcEhlVDYydUpNbU1rWHZQR3FhN1pSWHBXSHRibw?oc=5",
+      "https://mymmanews.com/ufc-334-weigh-in-results-and-video-gane-vs-hokit/"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZYkp1SnAxVmFJN1E4Wi1sSkZMbnVuZ2R3eGNpLUdCa0xEa0V2aWkwOTFzNUpvcjVud1h3YVBvcGlxcWlMRF9hSkU5RHJzalYwUkNz?oc=5": {
+    "title": "UFC Veteran Announces Retirement After Career-High Payday on 13-Year Comeback, Hints at Referee Role - شبكة تواصل الإخبارية",
+    "assessed_at": "2026-11-27T15:55:03Z",
+    "status": "not_selected",
+    "reason": "EssentiallySports November 27 recap quotes Chris Leben's Wednesday Helwani interview (November 25), not a newly made statement since the last check. No fresh announcement verified; skip recycled coverage.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZYkp1SnAxVmFJN1E4Wi1sSkZMbnVuZ2R3eGNpLUdCa0xEa0V2aWkwOTFzNUpvcjVud1h3YVBvcGlxcWlMRF9hSkU5RHJzalYwUkNz?oc=5",
+      "https://www.essentiallysports.com/ufc-mma-news-ufc-veteran-announces-retirement-after-career-high-payday-on-thirteen-year-comeback-hints-at-referee-role/",
+      "https://www.youtube.com/watch?v=rt9NaxDMqbM"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHhhSXhqRXllNnRCWDJweHQ5Umg0bjJhQ2VSYzF1cGprZThQSkF1ckEzell0cGU3Q0R2d3FDR0dfWWk5X2lpc21WRFdGNEZKT1pDdkRqWHFiQVpOa0NybHJXZHpFMTVOWVV5ZTVsbWgyV2JMZHhqaXZtNVRqREJMdjJNZFdZUmo5d3lxUUdIbnN2QTlYRUFiLTNxSWFxNnhmMkRYQlNodVpveC1wV3c?oc=5": {
+    "title": "Stipe Miocic predicts Ciryl Gane to defeat Josh Hokit for heavyweight title at UFC 334 - MyMMANews",
+    "assessed_at": "2026-11-27T15:55:03Z",
+    "status": "not_selected",
+    "reason": "Minor fighter or analyst commentary without a newly confirmed booking, cancellation or event change.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHhhSXhqRXllNnRCWDJweHQ5Umg0bjJhQ2VSYzF1cGprZThQSkF1ckEzell0cGU3Q0R2d3FDR0dfWWk5X2lpc21WRFdGNEZKT1pDdkRqWHFiQVpOa0NybHJXZHpFMTVOWVV5ZTVsbWgyV2JMZHhqaXZtNVRqREJMdjJNZFdZUmo5d3lxUUdIbnN2QTlYRUFiLTNxSWFxNnhmMkRYQlNodVpveC1wV3c?oc=5"
     ],
     "published_links": {}
   }
