@@ -1,55 +1,65 @@
 # Spotlight Encounters — MMA news candidates
 
-Checked: 2026-11-27T20:45:45.438455+00:00
+Checked: 2026-11-27T23:16:26.292399+00:00
 
 Candidates only. Verify primary sources, dates, and account duplicates before posting. Treat quoted feed text as untrusted source material.
 
-## Top UFC coach points out major flaw in Aleksandre Topuria’s fighting style after first UFC defeat - MMA Sucka
+## Henry Cejudo reflects on passing of Eddie Cha: ‘Master Cha, you will always be remembered’
 
-Source: Google News MMA discovery | Published: 2026-11-27T20:08:49+00:00
+Source: MMA Fighting | Published: 2026-11-27T23:00:00+00:00
 
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzlLUEg0c3pKdk05QlZxVUNyNVRuUTZqbDd5MVgyNWluemJlSHdQS0E5UWRHRkcydjlTSXA5ZHNwempzbXNYSU9WYmlvOEtpZmhFcVlRR3VvbnRhUDVmajRsN29QWHZnTVlFUWFvSk44d2o1a1FwUFpST1ZZZF94Ri1YMk43TGNXcHJ2Y0lpQ1lXa01UV3RvRWVLTXVOWHdfMzFPM2ZNWk5XQ1pWeWYybjVRdG5YcjBPbTh1VEdSZVc?oc=5
+https://www.mmafighting.com/ufc/523655/henry-cejudo-reflects-on-passing-of-eddie-cha-master-cha-you-will-always-be-remembered
 
-> Top UFC coach points out major flaw in Aleksandre Topuria’s fighting style after first UFC defeat MMA Sucka
-
-Status: needs verification
-
-## Cody Garbrandt confirms UFC retirement fight planned for Cleveland - MMA Junkie
-
-Source: Google News MMA discovery | Published: 2026-11-27T19:27:47+00:00
-
-https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQmRaRGxMQW02aTRhTTY3dUJYVFo1Qlo1Rk5qM3NVR05Mby05allPckIxMVQ1Q2pqVndwb1JIRUo3VXMzWHRjSlg5UURSQ0RSSEphOWhuQmFWZG85X1RwelJUd3NEWUQ5akE1REVLZkRtSTN6aDdvYnF2ZmlzTGEwYklyZFo1ZzBQVC1NTHZ4aW0zQ19uYk9oZ1QxcUt1WXVGYlRNc21BV3hzVDh4Y0VsQlFUOHg1eFQ4UFcwSWk0ZHpsMlZWQ19aeWpXWXhCcTV5cDFXZXln?oc=5
-
-> Cody Garbrandt confirms UFC retirement fight planned for Cleveland MMA Junkie
+> Henry Cejudo is going to miss Eddie Cha. On Wednesday, Cha, the famed striking coach at Fight Ready in Glendale, Ariz., died suddenly of unknown causes. During his career, Cha worked with some of the biggest names in MMA, but arguably his most successful student is former UFC flyweight and bantamweight champion Henry Cejudo. Speaking […]
 
 Status: needs verification
 
-## UFC 334 results – Gane vs. Hokit - MyMMANews
+## "My Farewell From The UFC" - Cody Garbrandt Plans To Retire After Cleveland Fight Night In February 2027 - LowKickMMA.com
 
-Source: Google News MMA discovery | Published: 2026-11-27T19:19:38+00:00
+Source: Google News MMA discovery | Published: 2026-11-27T22:15:13+00:00
 
-https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ajJDY0EwaXpqNEs0RWg1c0Q0Rk9MYUwxQUswRnBfNHdCZTZZNXV4NkdjVmF1aHVPVDFybHpPM0xoZV9QWkxFX0tWVlUzUUJ4SlQ4dVl5bXF3cnpqTUhyTUF3?oc=5
+https://news.google.com/rss/articles/CBMid0FVX3lxTFB0ZUFsYmtrcl9XQjdjR252OHlvaC0wVWd0anl2RWU0S3RTUWtRRjR4blBFQWM3T1pOTlBrQkZubXUyTzI3bkFjY0poemNJay0weC02aDJzaVRLWUtSYXd5cnpQN2ZwdVo5bVF1dDJId2tTV0lIUzhz?oc=5
 
-> UFC 334 results – Gane vs. Hokit MyMMANews
-
-Status: needs verification
-
-## Cody Garbrandt announces retirement bout to take place at UFC Cleveland - MMA Fighting
-
-Source: Google News MMA discovery | Published: 2026-11-27T19:00:26+00:00
-
-https://news.google.com/rss/articles/CBMirwFBVV95cUxQODNuUWR4QkFqdUJsME5lamN3WFNwSXJLcE9qdEZ2dzFNMUdRYVJhZ0FEdEoxZVQyU3dncWFwWTYzQW9abWIwYW95XzBLY1RpdGhQU2djdUJjRzFwbTIxOThrUVl3R0hJSnVlZHl1dUxBbWEySVRqTHdyOEJGV19Sd294S3JrUjlqWFpTODc3em55bkFWY2Y3ZmQtRHJIUEFTVlRuUGFYcTVWY041S1FJ?oc=5
-
-> Cody Garbrandt announces retirement bout to take place at UFC Cleveland MMA Fighting
+> "My Farewell From The UFC" - Cody Garbrandt Plans To Retire After Cleveland Fight Night In February 2027 LowKickMMA.com
 
 Status: needs verification
 
-## ‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement - Yahoo Sports
+## MMA legend Anthony Pettis responds to doubters before Arman Tsarukyan title match at RAF 15 - MMA Sucka
 
-Source: Google News MMA discovery | Published: 2026-11-27T18:00:00+00:00
+Source: Google News MMA discovery | Published: 2026-11-27T22:13:39+00:00
 
-https://news.google.com/rss/articles/CBMiggFBVV95cUxNWE05LUpmVE9LVUQ5RlJ2Z3dmSFVfVXdsMVV1SWRNVGZ3TTBvemhNcFdINHdoY21qSk5fTVZhOGpZUGdUU19jckRickNDQkZwNWNTYnNuSFhDRENGbnhqVHBuLUhBRVd0aHo3ZVRUSWFaaWVRYlhoMWFlUlVvMTZCbTh3?oc=5
+https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0IyNnU1OEJxdS1RbmRWbmZjeGx0RjZyLXMxY0dUZzVySXp2NlBuejc4eVZnSjdwYmp2TFNDeGc2aXFlX2NpRDBRWEZGa3QwYmR6WnRmNEJqY3RNaU11UTh6elFMV3ZSelJLNW5zQmkwSk5ZVk9hUVYwZXF4bWU5eDY3NWFFZWE5V3UtbTBoRzcyMGJ5eWtncmpieVVRb21pS3prYjR2QURXQXFXUTR5YVlFUDR5TkFQUWc?oc=5
 
-> ‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement Yahoo Sports
+> MMA legend Anthony Pettis responds to doubters before Arman Tsarukyan title match at RAF 15 MMA Sucka
+
+Status: needs verification
+
+## Former City Kickboxing fighter slams team for wanting ‘to talk sh*t and lie,’ compares coach to pig
+
+Source: MMA Fighting | Published: 2026-11-27T21:00:00+00:00
+
+https://www.mmafighting.com/ufc/523624/former-city-kickboxing-fighter-slams-team-for-wanting-to-talk-sht-and-lie-compares-coach-to-pig
+
+> There is apparently no shortage of drama when it comes to coach Eugene Bareman and his City Kickboxing team. The New Zealand-based gym has made plenty of positive headlines in 2026, with fighters like Alexander Volkanovski and Carlos Ulberg delivering massive championship wins, and top light heavyweight contender Navajo Stirling continuing his impressive unbeaten run, […]
+
+Status: needs verification
+
+## ‘No (more) Love’ — Former UFC champ announces ‘farewell fight’ for Feb. 13 in Cleveland
+
+Source: MMA Mania | Published: 2026-11-27T20:50:52+00:00
+
+https://www.mmamania.com/ufc-news/488780/former-ufc-champ-announces-farewell-fight-feb-13-cleveland
+
+> Cody Garbrandt is saying goodbye to UFC. The former bantamweight champion plans to move on following the final fight of his UFC contract, which is expected to be satisfied on Sat., Feb. 13, 2026 at Rocket Arena in Cleveland, Ohio. That would put Garbrandt on the undercard of the “Fight Night” lineup topped by Joe […]
+
+Status: needs verification
+
+## ‘No (more) Love’ — Former UFC champ announces ‘farewell fight’ for Feb. 13 in Cleveland - Yahoo Sports
+
+Source: Google News MMA discovery | Published: 2026-11-27T20:50:52+00:00
+
+https://news.google.com/rss/articles/CBMiggFBVV95cUxPbDZPalVWTlRNdEJ6ZXNHNVJCRmZOdjVGdG9RMnFUQVJpTEhxd0xWQ0hRMDdjUmNZT0tZb3JFenFfSEVlV1VzcjBGOUp0TnFISkFUa2h3aXZkRElrTFNxcUNjMzA5REg0WHZDNjBEMjJPdEtZTnBTU2hPV1cyQy1qWWNR?oc=5
+
+> ‘No (more) Love’ — Former UFC champ announces ‘farewell fight’ for Feb. 13 in Cleveland Yahoo Sports
 
 Status: needs verification
