@@ -243,13 +243,17 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T12:36:34Z",
-    "queue_checked_at": "2026-11-27T11:01:53.655942+00:00",
-    "queue_age_minutes": 95,
-    "feed_errors": [],
+    "checked_at": "2026-11-27T13:27:40Z",
+    "queue_checked_at": "2026-11-27T13:26:55.298303+00:00",
+    "feed_errors": [
+      {
+        "source": "Google News MMA discovery",
+        "error": "HTTP Error 503: Service Unavailable"
+      }
+    ],
     "assessed": 0,
     "published": 0,
-    "notes": "Collector report remains within two-hour freshness threshold with no feed errors. All 40 queued candidates already assessed; no new qualifying story or actionable blocker."
+    "notes": "Stale report refreshed by successful manual workflow. No unprocessed candidates among 40 queued entries. Google RSS returned 503 in collector, but direct health retry returned 200 (130152 bytes); no new persistent blocker."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -343,16 +347,26 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-27T10:29:00Z",
+    "observed_at": "2026-11-27T13:27:40Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 1,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45982337254",
-    "manual_recovery_result": "success",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46007150452",
+    "manual_recovery_result": "success_with_google_feed_error",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45927364484",
     "latest_scheduled_result": "success",
     "schedule_blocker_resolved": false,
-    "latest_feed_errors": []
+    "latest_feed_errors": [
+      {
+        "source": "Google News MMA discovery",
+        "error": "HTTP Error 503: Service Unavailable"
+      }
+    ],
+    "google_news_retry": {
+      "status": 200,
+      "bytes": 130152,
+      "scope": "Health-only live fetch; no independent candidate publication"
+    }
   },
   "https://www.mmamania.com/mma-prospects/488391/mmamania-coms-prospect-of-the-month-sebastian-oyervidez": {
     "story": "MMAmania.com’s ‘Prospect of the Month:’ Sebastian Oyervidez",
