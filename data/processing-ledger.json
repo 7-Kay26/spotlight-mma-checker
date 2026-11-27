@@ -243,12 +243,16 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T06:30:13Z",
-    "queue_checked_at": "2026-11-27T05:23:32.076280+00:00",
-    "queue_age_minutes": 67,
-    "feed_errors": [],
+    "checked_at": "2026-11-27T07:30:00Z",
+    "queue_checked_at": "2026-11-27T07:29:51.468590+00:00",
+    "feed_errors": [
+      {
+        "source": "Google News MMA discovery",
+        "error": "HTTP Error 503: Service Unavailable"
+      }
+    ],
     "published": 0,
-    "notes": "No unprocessed candidates; report within two-hour freshness threshold. No duplicate publication or repeated blocker notification."
+    "notes": "Refreshed stale repository report. No new candidates from successful feeds. Google News returned HTTP 503 on the GitHub run; one live retry from the execution workspace returned HTTP 200 and 129164 bytes. Transient failure, not treated as verified new story or a persistent user-action blocker. No repeated unchanged scheduler/logo notification."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -342,15 +346,20 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-27T05:24:00Z",
+    "observed_at": "2026-11-27T07:30:00Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 1,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45945510727",
-    "manual_recovery_result": "success",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45958823749",
+    "manual_recovery_result": "success_with_google_feed_error",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45927364484",
     "latest_scheduled_result": "success",
-    "schedule_blocker_resolved": false
+    "schedule_blocker_resolved": false,
+    "google_news_retry": {
+      "status": 200,
+      "bytes": 129164,
+      "scope": "live fetch from execution workspace; no independent candidate publication"
+    }
   },
   "https://www.mmamania.com/mma-prospects/488391/mmamania-coms-prospect-of-the-month-sebastian-oyervidez": {
     "story": "MMAmania.com’s ‘Prospect of the Month:’ Sebastian Oyervidez",
