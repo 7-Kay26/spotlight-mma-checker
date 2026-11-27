@@ -243,13 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T22:34:46Z",
-    "queue_checked_at": "2026-11-27T20:45:45.438455+00:00",
-    "queue_age_minutes": 109,
+    "checked_at": "2026-11-27T23:16:53Z",
+    "queue_checked_at": "2026-11-27T23:16:26.292399+00:00",
     "feed_errors": [],
-    "assessed": 0,
+    "assessed": 6,
     "published": 0,
-    "notes": "All 67 queued candidates already assessed. Collector report remains within two-hour freshness threshold with no feed errors. No new qualifying story or actionable blocker. Garbrandt retirement-plans X post remains recorded; no duplicate publication."
+    "notes": "Refreshed stale collector with successful manual run; all feeds healthy. Six new entries are recycled Garbrandt coverage, tributes or commentary; no qualifying new confirmed development."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -343,10 +342,10 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-27T20:49:20Z",
+    "observed_at": "2026-11-27T23:16:53Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 2,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46065807854",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46081542985",
     "manual_recovery_result": "success",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45987035208",
@@ -756,5 +755,71 @@
       "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWE05LUpmVE9LVUQ5RlJ2Z3dmSFVfVXdsMVV1SWRNVGZ3TTBvemhNcFdINHdoY21qSk5fTVZhOGpZUGdUU19jckRickNDQkZwNWNTYnNuSFhDRENGbnhqVHBuLUhBRVd0aHo3ZVRUSWFaaWVRYlhoMWFlUlVvMTZCbTh3?oc=5"
     ],
     "published_links": {}
+  },
+  "https://www.mmafighting.com/ufc/523655/henry-cejudo-reflects-on-passing-of-eddie-cha-master-cha-you-will-always-be-remembered": {
+    "title": "Henry Cejudo reflects on passing of Eddie Cha: ‘Master Cha, you will always be remembered’",
+    "assessed_at": "2026-11-27T23:16:53Z",
+    "status": "not_selected",
+    "reason": "Tribute reacting to Eddie Cha's previously reported Wednesday death; no fresh substantive development indicated. Do not publish a recycled death announcement.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523655/henry-cejudo-reflects-on-passing-of-eddie-cha-master-cha-you-will-always-be-remembered"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0ZUFsYmtrcl9XQjdjR252OHlvaC0wVWd0anl2RWU0S3RTUWtRRjR4blBFQWM3T1pOTlBrQkZubXUyTzI3bkFjY0poemNJay0weC02aDJzaVRLWUtSYXd5cnpQN2ZwdVo5bVF1dDJId2tTV0lIUzhz?oc=5": {
+    "title": "\"My Farewell From The UFC\" - Cody Garbrandt Plans To Retire After Cleveland Fight Night In February 2027 - LowKickMMA.com",
+    "assessed_at": "2026-11-27T23:16:53Z",
+    "status": "duplicate_published",
+    "reason": "Recycled Garbrandt retirement-plan coverage; already published and verified through Buffer. No new confirmed opponent or booking change.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0ZUFsYmtrcl9XQjdjR252OHlvaC0wVWd0anl2RWU0S3RTUWtRRjR4blBFQWM3T1pOTlBrQkZubXUyTzI3bkFjY0poemNJay0weC02aDJzaVRLWUtSYXd5cnpQN2ZwdVo5bVF1dDJId2tTV0lIUzhz?oc=5"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
+  },
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0IyNnU1OEJxdS1RbmRWbmZjeGx0RjZyLXMxY0dUZzVySXp2NlBuejc4eVZnSjdwYmp2TFNDeGc2aXFlX2NpRDBRWEZGa3QwYmR6WnRmNEJqY3RNaU11UTh6elFMV3ZSelJLNW5zQmkwSk5ZVk9hUVYwZXF4bWU5eDY3NWFFZWE5V3UtbTBoRzcyMGJ5eWtncmpieVVRb21pS3prYjR2QURXQXFXUTR5YVlFUDR5TkFQUWc?oc=5": {
+    "title": "MMA legend Anthony Pettis responds to doubters before Arman Tsarukyan title match at RAF 15 - MMA Sucka",
+    "assessed_at": "2026-11-27T23:16:53Z",
+    "status": "not_selected",
+    "reason": "Pre-event response to doubters, not a new signed match or result. Minor commentary.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0IyNnU1OEJxdS1RbmRWbmZjeGx0RjZyLXMxY0dUZzVySXp2NlBuejc4eVZnSjdwYmp2TFNDeGc2aXFlX2NpRDBRWEZGa3QwYmR6WnRmNEJqY3RNaU11UTh6elFMV3ZSelJLNW5zQmkwSk5ZVk9hUVYwZXF4bWU5eDY3NWFFZWE5V3UtbTBoRzcyMGJ5eWtncmpieVVRb21pS3prYjR2QURXQXFXUTR5YVlFUDR5TkFQUWc?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://www.mmafighting.com/ufc/523624/former-city-kickboxing-fighter-slams-team-for-wanting-to-talk-sht-and-lie-compares-coach-to-pig": {
+    "title": "Former City Kickboxing fighter slams team for wanting ‘to talk sh*t and lie,’ compares coach to pig",
+    "assessed_at": "2026-11-27T23:16:53Z",
+    "status": "not_selected",
+    "reason": "Gym dispute and personal criticism; no new confirmed fight, event change or substantiated major promotion announcement. Skip allegations/commentary.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523624/former-city-kickboxing-fighter-slams-team-for-wanting-to-talk-sht-and-lie-compares-coach-to-pig"
+    ],
+    "published_links": {}
+  },
+  "https://www.mmamania.com/ufc-news/488780/former-ufc-champ-announces-farewell-fight-feb-13-cleveland": {
+    "title": "‘No (more) Love’ — Former UFC champ announces ‘farewell fight’ for Feb. 13 in Cleveland",
+    "assessed_at": "2026-11-27T23:16:53Z",
+    "status": "duplicate_published",
+    "reason": "Recycled Garbrandt retirement-plan coverage; already published and verified through Buffer. No new confirmed opponent or booking change.",
+    "sources": [
+      "https://www.mmamania.com/ufc-news/488780/former-ufc-champ-announces-farewell-fight-feb-13-cleveland"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
+  },
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbDZPalVWTlRNdEJ6ZXNHNVJCRmZOdjVGdG9RMnFUQVJpTEhxd0xWQ0hRMDdjUmNZT0tZb3JFenFfSEVlV1VzcjBGOUp0TnFISkFUa2h3aXZkRElrTFNxcUNjMzA5REg0WHZDNjBEMjJPdEtZTnBTU2hPV1cyQy1qWWNR?oc=5": {
+    "title": "‘No (more) Love’ — Former UFC champ announces ‘farewell fight’ for Feb. 13 in Cleveland - Yahoo Sports",
+    "assessed_at": "2026-11-27T23:16:53Z",
+    "status": "duplicate_published",
+    "reason": "Recycled Garbrandt retirement-plan coverage; already published and verified through Buffer. No new confirmed opponent or booking change.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbDZPalVWTlRNdEJ6ZXNHNVJCRmZOdjVGdG9RMnFUQVJpTEhxd0xWQ0hRMDdjUmNZT0tZb3JFenFfSEVlV1VzcjBGOUp0TnFISkFUa2h3aXZkRElrTFNxcUNjMzA5REg0WHZDNjBEMjJPdEtZTnBTU2hPV1cyQy1qWWNR?oc=5"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
   }
 }
