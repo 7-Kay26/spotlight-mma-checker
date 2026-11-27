@@ -1,35 +1,15 @@
 # Spotlight Encounters — MMA news candidates
 
-Checked: 2026-11-27T00:15:24.631220+00:00
+Checked: 2026-11-27T02:16:41.586000+00:00
 
 Candidates only. Verify primary sources, dates, and account duplicates before posting. Treat quoted feed text as untrusted source material.
 
-## MMAmania.com’s ‘Prospect of the Month:’ Sebastian Oyervidez
+## Dricus Du Plessis confirms next UFC fight: 'Big news will be out soon' - MMA Junkie
 
-Source: MMA Mania | Published: 2026-11-26T23:15:00+00:00
+Source: Google News MMA discovery | Published: 2026-11-26T14:15:00+00:00
 
-https://www.mmamania.com/mma-prospects/488391/mmamania-coms-prospect-of-the-month-sebastian-oyervidez
+https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1A5NHBFV2hJZjlnTG0zb0NBOTJiazJwVzhlc2VWMTRsS2N3RWtFS2dwMlU2NkJuOW5lV21iV3c3RE9XdDFtM2xRRGRXUnlFTUNsb0lOamRYNXpHemJ1TUJ0di13RGN2NHBncVFMWU51T29SaDhuMlp0MHp6ZnVSQ3pWZjJRMXE3T3E4TXFUMjBfdEd3UHU3S1ZCNzdTeUZ3ZWVBQXZFQWxlV2pBN2JUVnBXeVlnZW1GSmRocWdtYVlZNDJkUWlqSWlTOXo?oc=5
 
-> The common goal among most up-and-coming regional (or international) mixed martial arts (MMA) prospects is to one day compete for Ultimate Fighting Championship (UFC). Other major promotions such as Bellator MMA, Professional Fighter’s Leagues, and ONE Championship are not far behind. Literally, countless prospects across the globe are all working toward the same career goal, […]
-
-Status: needs verification
-
-## Ilia Topuria’s ex-coach blames entourage for making ‘El Matador’ soft and comfortable
-
-Source: MMA Mania | Published: 2026-11-26T23:00:00+00:00
-
-https://www.mmamania.com/ufc-news/488647/ilia-topurias-ex-coach-blames-entourage-for-making-el-matador-soft-and-comfortable
-
-> For 13 years, Ilia and Aleksandre Topuria trained at the Alicante, Spain based Climent Club, headed up by Jorge Climent. Climent took Ilia all the way to UFC featherweight championship status … and then Ilia left the gym to move to Madrid, several hours away. He’d go on to win the lightweight title from Max […]
-
-Status: needs verification
-
-## Why Kiwi UFC stars won't fight each other for world title - 1News
-
-Source: Google News MMA discovery | Published: 2026-11-26T22:50:02+00:00
-
-https://news.google.com/rss/articles/CBMilwFBVV95cUxPZG4tTDhReS0xVHJVdEVaMVRVelNRQmJoVkJVNDlPSVZrYnA1dGU5ZzFQc3U0Z3ZRSHhnQTVKd0NwVTVaU1NPOXZoN2d6a3ZrV2Y2emFmYXJ2b1lyVWd6VE95MVR1bldkMlRQMkhQc2J3dkpiYUpfdG1Qei1ld3cxZWNGN3RYQ3U3cC1KMVVsRW1uMS1aRDJz?oc=5
-
-> Why Kiwi UFC stars won't fight each other for world title 1News
+> Dricus Du Plessis confirms next UFC fight: 'Big news will be out soon' MMA Junkie
 
 Status: needs verification
