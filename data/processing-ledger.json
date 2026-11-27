@@ -243,13 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T17:21:42Z",
-    "queue_checked_at": "2026-11-27T15:53:35.563721+00:00",
-    "queue_age_minutes": 88,
+    "checked_at": "2026-11-27T17:59:57Z",
+    "queue_checked_at": "2026-11-27T17:59:29.361042+00:00",
     "feed_errors": [],
-    "assessed": 0,
+    "assessed": 3,
     "published": 0,
-    "notes": "Collector report remains within two-hour freshness threshold with no feed errors. All 50 queued candidates already assessed; no new qualifying story or actionable blocker."
+    "notes": "User-requested watcher diagnostic. Manual refresh succeeded with all feeds healthy; three syndicated commentary/duplicate entries assessed. Reported irregular GitHub scheduling and outstanding publication limitations candidly."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -343,13 +342,13 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-27T15:55:03Z",
+    "observed_at": "2026-11-27T17:59:57Z",
     "workflow_state": "active",
-    "observed_scheduled_runs": 1,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46028870639",
+    "observed_scheduled_runs": 2,
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46046019416",
     "manual_recovery_result": "success",
     "alert_reported": true,
-    "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45927364484",
+    "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45987035208",
     "latest_scheduled_result": "success",
     "schedule_blocker_resolved": false,
     "latest_feed_errors": [],
@@ -542,6 +541,36 @@
     "reason": "Minor fighter or analyst commentary without a newly confirmed booking, cancellation or event change.",
     "sources": [
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHhhSXhqRXllNnRCWDJweHQ5Umg0bjJhQ2VSYzF1cGprZThQSkF1ckEzell0cGU3Q0R2d3FDR0dfWWk5X2lpc21WRFdGNEZKT1pDdkRqWHFiQVpOa0NybHJXZHpFMTVOWVV5ZTVsbWgyV2JMZHhqaXZtNVRqREJMdjJNZFdZUmo5d3lxUUdIbnN2QTlYRUFiLTNxSWFxNnhmMkRYQlNodVpveC1wV3c?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWFEcEZ2aTZnZ2dCTkJNRjJNNm43WUs0TWhyTTZsaGlYZ1FlMC0xdC1CT3BYV2UyM3lnR1BLVzRwZTFBQXJMeVVUVDk2LWxkYmtla0hYR3JNQ1dyZ041SFNqN1pTeWx6RUlnTGdBcXRLaExoVHJObkZDR0w1aXdldzFSUVhsWFZXVFZqTV9BOEZvRnUwTjNrSnJpOG9MZVJvUlNDaHQ2YjhGUnpIT0JEUmhNUXNUZTZnYmc?oc=5": {
+    "title": "UFC Champion Carlos Ulberg & Navajo Stirling Roasted by UFC Star for Fight Refusal - Sports Illustrated",
+    "assessed_at": "2026-11-27T17:59:57Z",
+    "status": "not_selected",
+    "reason": "Recycled fighter criticism of teammates declining hypothetical matchup; already assessed, no confirmed booked-bout cancellation.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWFEcEZ2aTZnZ2dCTkJNRjJNNm43WUs0TWhyTTZsaGlYZ1FlMC0xdC1CT3BYV2UyM3lnR1BLVzRwZTFBQXJMeVVUVDk2LWxkYmtla0hYR3JNQ1dyZ041SFNqN1pTeWx6RUlnTGdBcXRLaExoVHJObkZDR0w1aXdldzFSUVhsWFZXVFZqTV9BOEZvRnUwTjNrSnJpOG9MZVJvUlNDaHQ2YjhGUnpIT0JEUmhNUXNUZTZnYmc?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmFVVTVGcjY0cDQ2SU5jZTdVRXpWblh5dElVTEdqN0F0eHp2MWlwQzNVcHBjRGhidTN2REo2QlFvLTJuanZCcGhhNGpjQzVrNUN2dFFhVXpqbHdzdWNtbU5OX21GQk10UkdRMmd2VmF5YlJ2WWRXSHpkaFoxeFJ6S1Q1dWdtQQ?oc=5": {
+    "title": "Tony Ferguson’s UFC losing streak record could be surpassed in 2027 after new fight announcement - Yahoo",
+    "assessed_at": "2026-11-27T17:59:57Z",
+    "status": "duplicate_published",
+    "reason": "Second syndicated discovery URL for same previously assessed Tuivasa–Diniz story; already published to X.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmFVVTVGcjY0cDQ2SU5jZTdVRXpWblh5dElVTEdqN0F0eHp2MWlwQzNVcHBjRGhidTN2REo2QlFvLTJuanZCcGhhNGpjQzVrNUN2dFFhVXpqbHdzdWNtbU5OX21GQk10UkdRMmd2VmF5YlJ2WWRXSHpkaFoxeFJ6S1Q1dWdtQQ?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDFBTmxLVlAySXVGWXppVGNHSV85cnpsME9Kd01TT0Q2NGJCeVJZWkt3MGlyOXlZUndEcDhMRU9SMzY3M1cyNGc5enllai1pQXVWcDZ2R0MyQ3BmLUlEMjUxNkFCTDVtbHJDa21yeHdHcUE0VU96cHlCYmRIeFA2Q2Q5R1E?oc=5": {
+    "title": "Joe Rogan explains why a 13-time jiu-jitsu world champion has failed in the UFC - Yahoo Sports",
+    "assessed_at": "2026-11-27T17:59:57Z",
+    "status": "not_selected",
+    "reason": "Second syndicated discovery URL for previously assessed Rogan commentary on jiu-jitsu in MMA; no substantive new development.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDFBTmxLVlAySXVGWXppVGNHSV85cnpsME9Kd01TT0Q2NGJCeVJZWkt3MGlyOXlZUndEcDhMRU9SMzY3M1cyNGc5enllai1pQXVWcDZ2R0MyQ3BmLUlEMjUxNkFCTDVtbHJDa21yeHdHcUE0VU96cHlCYmRIeFA2Q2Q5R1E?oc=5"
     ],
     "published_links": {}
   }
