@@ -243,8 +243,9 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T07:30:00Z",
+    "checked_at": "2026-11-27T08:30:15Z",
     "queue_checked_at": "2026-11-27T07:29:51.468590+00:00",
+    "queue_age_minutes": 60,
     "feed_errors": [
       {
         "source": "Google News MMA discovery",
@@ -252,7 +253,7 @@
       }
     ],
     "published": 0,
-    "notes": "Refreshed stale repository report. No new candidates from successful feeds. Google News returned HTTP 503 on the GitHub run; one live retry from the execution workspace returned HTTP 200 and 129164 bytes. Transient failure, not treated as verified new story or a persistent user-action blocker. No repeated unchanged scheduler/logo notification."
+    "notes": "No unprocessed candidates. Collector report within freshness threshold; Google feed failure is the same previously recorded run, not a new failure observation. Prior live retry returned 200. No duplicate publication or unchanged-blocker notification."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
