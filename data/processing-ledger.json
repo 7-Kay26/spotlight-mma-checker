@@ -243,12 +243,11 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T04:08:37Z",
-    "queue_checked_at": "2026-11-27T02:16:41.586000+00:00",
-    "queue_age_minutes": 112,
+    "checked_at": "2026-11-27T05:24:00Z",
+    "queue_checked_at": "2026-11-27T05:23:32.076280+00:00",
     "feed_errors": [],
     "published": 0,
-    "notes": "No unprocessed candidates; latest collector report remains within two-hour freshness threshold. No duplicated posts or repeated blocker notifications."
+    "notes": "Refreshed stale report once; two newly collected candidates not selected. No new confirmed MMA/UFC story, no new blocker notification."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -341,16 +340,16 @@
     "published_links": {}
   },
   "_collector_health": {
-    "status": "scheduled_run_verified",
-    "observed_at": "2026-11-27T02:48:00Z",
+    "status": "intermittent_schedule_manual_fallback",
+    "observed_at": "2026-11-27T05:24:00Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 1,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45915651023",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45945510727",
     "manual_recovery_result": "success",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45927364484",
     "latest_scheduled_result": "success",
-    "schedule_blocker_resolved": true
+    "schedule_blocker_resolved": false
   },
   "https://www.mmamania.com/mma-prospects/488391/mmamania-coms-prospect-of-the-month-sebastian-oyervidez": {
     "story": "MMAmania.com’s ‘Prospect of the Month:’ Sebastian Oyervidez",
@@ -391,6 +390,26 @@
       "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/26/dricus-du-plessis-next-ufc-fight-announced-soon-middleweight/92969023007/"
     ],
     "assessed_at": "2026-11-27T02:48:00Z",
+    "published_links": {}
+  },
+  "https://www.mmamania.com/bjj-news/488653/bjj-world-champ-and-aoj-kids-coach-arrested-for-sex-crimes-with-underage-student": {
+    "story": "BJJ world champ and AOJ kids coach arrested for sex crimes with underage student",
+    "status": "not_selected",
+    "reason": "BJJ criminal allegation outside the current confirmed MMA/UFC fight-news scope; feed excerpt also inconsistent on subject's surname. Not verified or selected.",
+    "sources": [
+      "https://www.mmamania.com/bjj-news/488653/bjj-world-champ-and-aoj-kids-coach-arrested-for-sex-crimes-with-underage-student"
+    ],
+    "assessed_at": "2026-11-27T05:24:00Z",
+    "published_links": {}
+  },
+  "https://www.mmamania.com/latest-news/488511/seven-wins-later-ex-ufc-prospect-nick-maximov-still-waiting-for-call-back-what-do-i-gotta-do": {
+    "story": "Seven wins later, ex-UFC prospect Nick Maximov still waiting for call back — ‘What do I gotta do?’",
+    "status": "not_selected",
+    "reason": "Interview/retrospective about seeking a UFC return; no confirmed new signing, booking, cancellation or date change.",
+    "sources": [
+      "https://www.mmamania.com/latest-news/488511/seven-wins-later-ex-ufc-prospect-nick-maximov-still-waiting-for-call-back-what-do-i-gotta-do"
+    ],
+    "assessed_at": "2026-11-27T05:24:00Z",
     "published_links": {}
   }
 }
