@@ -243,9 +243,9 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T14:00:42Z",
+    "checked_at": "2026-11-27T15:25:13Z",
     "queue_checked_at": "2026-11-27T13:26:55.298303+00:00",
-    "queue_age_minutes": 34,
+    "queue_age_minutes": 118,
     "feed_errors": [
       {
         "source": "Google News MMA discovery",
@@ -254,7 +254,7 @@
     ],
     "assessed": 0,
     "published": 0,
-    "notes": "All 40 queued candidates already assessed. Collector report within freshness threshold. Google feed error is the same previously recorded run; direct health retry returned 200. No new qualifying story or actionable blocker."
+    "notes": "All 40 queued candidates already assessed; report remains within two-hour freshness threshold. Google feed error is from the previously recorded collector run, whose direct health retry succeeded. No new qualifying story or actionable blocker."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
