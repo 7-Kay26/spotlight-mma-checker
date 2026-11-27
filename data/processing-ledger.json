@@ -243,12 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T01:23:11Z",
+    "checked_at": "2026-11-27T01:56:26Z",
     "queue_checked_at": "2026-11-27T00:15:24.631220+00:00",
-    "queue_age_minutes": 68,
+    "queue_age_minutes": 101,
     "feed_errors": [],
     "published": 0,
-    "notes": "No unprocessed candidates; report within two-hour freshness threshold. No repeat publication or unchanged blocker notification."
+    "notes": "Queue unchanged with no unprocessed candidates; latest report remains within two-hour threshold. No duplicate publication or repeated blocker notification."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
