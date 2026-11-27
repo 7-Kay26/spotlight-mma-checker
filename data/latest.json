@@ -1,6 +1,11 @@
 {
-  "checked_at": "2026-11-27T11:01:53.655942+00:00",
+  "checked_at": "2026-11-27T13:26:55.298303+00:00",
   "new_count": 0,
   "stories": [],
-  "feed_errors": []
+  "feed_errors": [
+    {
+      "source": "Google News MMA discovery",
+      "error": "HTTP Error 503: Service Unavailable"
+    }
+  ]
 }
