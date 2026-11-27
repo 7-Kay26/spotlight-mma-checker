@@ -243,12 +243,13 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T17:59:57Z",
+    "checked_at": "2026-11-27T18:15:20Z",
     "queue_checked_at": "2026-11-27T17:59:29.361042+00:00",
+    "queue_age_minutes": 16,
     "feed_errors": [],
-    "assessed": 3,
+    "assessed": 0,
     "published": 0,
-    "notes": "User-requested watcher diagnostic. Manual refresh succeeded with all feeds healthy; three syndicated commentary/duplicate entries assessed. Reported irregular GitHub scheduling and outstanding publication limitations candidly."
+    "notes": "Collector report is fresh with no feed errors. All 53 queued candidates already assessed; no new qualifying story or actionable blocker."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
