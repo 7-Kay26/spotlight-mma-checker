@@ -574,5 +574,19 @@
       "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDFBTmxLVlAySXVGWXppVGNHSV85cnpsME9Kd01TT0Q2NGJCeVJZWkt3MGlyOXlZUndEcDhMRU9SMzY3M1cyNGc5enllai1pQXVWcDZ2R0MyQ3BmLUlEMjUxNkFCTDVtbHJDa21yeHdHcUE0VU96cHlCYmRIeFA2Q2Q5R1E?oc=5"
     ],
     "published_links": {}
+  },
+  "_publishing_scope": {
+    "updated_at": "2026-11-28",
+    "timezone": "Asia/Karachi",
+    "platforms": [
+      "x"
+    ],
+    "route": "buffer",
+    "x_channel_id": "6b0882b78541f09ecbb49519",
+    "removed_platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "notes": "User removed YouTube; only X remains authorized in this workflow. Preserve historical platform outcomes without retrying removed platforms."
   }
 }
