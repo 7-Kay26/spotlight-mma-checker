@@ -1,95 +1,55 @@
 # Spotlight Encounters — MMA news candidates
 
-Checked: 2026-11-27T20:01:35.101146+00:00
+Checked: 2026-11-27T20:45:45.438455+00:00
 
 Candidates only. Verify primary sources, dates, and account duplicates before posting. Treat quoted feed text as untrusted source material.
 
-## Cody Garbrandt confirms UFC retirement fight planned for Cleveland - Yahoo Sports
+## Top UFC coach points out major flaw in Aleksandre Topuria’s fighting style after first UFC defeat - MMA Sucka
+
+Source: Google News MMA discovery | Published: 2026-11-27T20:08:49+00:00
+
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzlLUEg0c3pKdk05QlZxVUNyNVRuUTZqbDd5MVgyNWluemJlSHdQS0E5UWRHRkcydjlTSXA5ZHNwempzbXNYSU9WYmlvOEtpZmhFcVlRR3VvbnRhUDVmajRsN29QWHZnTVlFUWFvSk44d2o1a1FwUFpST1ZZZF94Ri1YMk43TGNXcHJ2Y0lpQ1lXa01UV3RvRWVLTXVOWHdfMzFPM2ZNWk5XQ1pWeWYybjVRdG5YcjBPbTh1VEdSZVc?oc=5
+
+> Top UFC coach points out major flaw in Aleksandre Topuria’s fighting style after first UFC defeat MMA Sucka
+
+Status: needs verification
+
+## Cody Garbrandt confirms UFC retirement fight planned for Cleveland - MMA Junkie
 
 Source: Google News MMA discovery | Published: 2026-11-27T19:27:47+00:00
 
-https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVF6NVVNVTFBT1A3X0lwbWNFSEN2LTRnQXRCajBoUWdfck1LQzBkZGRQdXhHM0hyMFVkOFBKZFl3eU9yVkwzTlF2OG1RTXRLUXJ6M0hTUGRfZWRGaU9FTnk0ZVp1UzVQU3RiZVpLWElGZXRfeVpqUWpHQjNVNWVYaUd6RTZIY3JEZnVlc0hmcjNHQVhuS0hPRQ?oc=5
+https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQmRaRGxMQW02aTRhTTY3dUJYVFo1Qlo1Rk5qM3NVR05Mby05allPckIxMVQ1Q2pqVndwb1JIRUo3VXMzWHRjSlg5UURSQ0RSSEphOWhuQmFWZG85X1RwelJUd3NEWUQ5akE1REVLZkRtSTN6aDdvYnF2ZmlzTGEwYklyZFo1ZzBQVC1NTHZ4aW0zQ19uYk9oZ1QxcUt1WXVGYlRNc21BV3hzVDh4Y0VsQlFUOHg1eFQ4UFcwSWk0ZHpsMlZWQ19aeWpXWXhCcTV5cDFXZXln?oc=5
 
-> Cody Garbrandt confirms UFC retirement fight planned for Cleveland Yahoo Sports
-
-Status: needs verification
-
-## Cody Garbrandt confirms UFC 'farewell' fight planned for Cleveland - MMA Junkie
-
-Source: Google News MMA discovery | Published: 2026-11-27T19:15:00+00:00
-
-https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHRNcVNtM0VidnVsWjM5VUs0aXZKdTVBUV8yVWgzQV9PTDNtVnA5UlY4ZExLdkNpSU11cjZyajFfTEowMEhkOVVQWndfcDVKZXJnZURpYVFsa1NYMFRRcFhkRGVKXy1fNUNQbVpDYmttZ2JHMzZzWWNadlR1MUtzLW9LbWloS3l5R1VlSllmck9HRUEyTkh1TENhYVJOenptWVNjWllKYlA1RENnWExlWTVPd0ROY09SaHROTGZERlR2eXo4UXE5VkdMRHpXVENX?oc=5
-
-> Cody Garbrandt confirms UFC 'farewell' fight planned for Cleveland MMA Junkie
+> Cody Garbrandt confirms UFC retirement fight planned for Cleveland MMA Junkie
 
 Status: needs verification
 
-## UFC's Carlos Prates Shares Bright Side of UFC 336 Interim Title Fight - Sports Illustrated
+## UFC 334 results – Gane vs. Hokit - MyMMANews
 
-Source: Google News MMA discovery | Published: 2026-11-27T19:09:04+00:00
+Source: Google News MMA discovery | Published: 2026-11-27T19:19:38+00:00
 
-https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFVLaVRZMVVJVDBkQTRVM0gwY1NEbl9OQjN4OHFqOC0yRVY5eFB2OEw5Q01nNTR5cHA2RDZiYUNMbFZud2dWTC0xT1Z2dlNTQXFrSUlQZWlSNlR2bnFkdTh4MWo1TmdSXzNsNTdWTmY5SDdvYjhFeDJ2ZG9mM0VCWjhJczc2UDJjaThQYUpBTHVGemstYjgwc2VfX1FxVUEtZUpmS3FiMTJ0ZjV3ZTBzb0dQSUd1djh4c2FCMQ?oc=5
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ajJDY0EwaXpqNEs0RWg1c0Q0Rk9MYUwxQUswRnBfNHdCZTZZNXV4NkdjVmF1aHVPVDFybHpPM0xoZV9QWkxFX0tWVlUzUUJ4SlQ4dVl5bXF3cnpqTUhyTUF3?oc=5
 
-> UFC's Carlos Prates Shares Bright Side of UFC 336 Interim Title Fight Sports Illustrated
-
-Status: needs verification
-
-## Cody Garbrandt announces retirement bout to take place at UFC Cleveland
-
-Source: MMA Fighting | Published: 2026-11-27T19:00:00+00:00
-
-https://www.mmafighting.com/ufc/523641/cody-garbrandt-announces-retirement-bout-to-take-place-at-ufc-cleveland
-
-> CHICAGO—Cody Garbrandt is ready to fight for the final time. The former UFC bantamweight champion told MMA Fighting’s Mike Heck he expects to be booked to compete at UFC Cleveland on Feb. 13 in what will be the final fight of his career. Garbrandt, 35, broke the news while discussing his upcoming wrestling match with […]
+> UFC 334 results – Gane vs. Hokit MyMMANews
 
 Status: needs verification
 
-## Cody Garbrandt announces retirement bout to take place at UFC Cleveland - Yahoo Sports
+## Cody Garbrandt announces retirement bout to take place at UFC Cleveland - MMA Fighting
 
-Source: Google News MMA discovery | Published: 2026-11-27T19:00:00+00:00
+Source: Google News MMA discovery | Published: 2026-11-27T19:00:26+00:00
 
-https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjNGYks1TDI3eno4bXFmUjhvaUh4SVMtd09ZQXFBUjZ2WEg5OEtIeXJnSlVTMWZQS2NsY1U0dDJnTl9xTy1KQ1lpcUFjQ0h2cFQ4WU15bXYwRUVXYjJqc3NyT2tlNVRjQjdmNEVMM2x0V0w1SjJtaTY1cHM5WGZBbGtDMFlmRVBpTkFONHNZWkFVaXFOQ2laMw?oc=5
+https://news.google.com/rss/articles/CBMirwFBVV95cUxQODNuUWR4QkFqdUJsME5lamN3WFNwSXJLcE9qdEZ2dzFNMUdRYVJhZ0FEdEoxZVQyU3dncWFwWTYzQW9abWIwYW95XzBLY1RpdGhQU2djdUJjRzFwbTIxOThrUVl3R0hJSnVlZHl1dUxBbWEySVRqTHdyOEJGV19Sd294S3JrUjlqWFpTODc3em55bkFWY2Y3ZmQtRHJIUEFTVlRuUGFYcTVWY041S1FJ?oc=5
 
-> Cody Garbrandt announces retirement bout to take place at UFC Cleveland Yahoo Sports
-
-Status: needs verification
-
-## Andrei Arlovski eyes Tom Aspinall rematch, Ciryl Gane ‘dance’ after smashing Chase DeMoor for Misfits Boxing
-
-Source: MMA Mania | Published: 2026-11-27T18:32:36+00:00
-
-https://www.mmamania.com/ufc-news/488765/andrei-arlovski-eyes-tom-aspinall-rematch-ciryl-gane-dance-smashing-chase-demoor-misfits-boxing
-
-> Former UFC heavyweight champion, Andrei Arlovski, is 4-0 with four knockouts since parting ways with UFC back in June 2024. A fifth straight win could be enough to open the door for an Octagon return, which means Arlovski has more at stake than just the Misfits Boxing heavyweight title. But first, “The Pitbull” has to […]
+> Cody Garbrandt announces retirement bout to take place at UFC Cleveland MMA Fighting
 
 Status: needs verification
 
-## UFC Newcomer Booked to Fight on Less Than 2 Weeks' Notice at UFC Saudi Arabia - Sports Illustrated
-
-Source: Google News MMA discovery | Published: 2026-11-27T18:22:59+00:00
-
-https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjF1VG4xUVNfMTExc3BiT1FUdUxoMzlOR0NuTy1FaWZxSDQzZ2trQXF4TkdfeUwyOGlEVkMtWGxaRFBwQVFLeEhSX3ZEaDg5aGJnWE5QN3dpM1ZUMVRnVnNrel9TWEdaQkw1OFp3TGR1Ui1ZUjhXOGtFRU5PaEtVcU9qSDBaLXRmVXBDOVotb04ydkdaNUJWWGI3S05NWHBtN0I3NVJSZjZ6VHc4RDRKaw?oc=5
-
-> UFC Newcomer Booked to Fight on Less Than 2 Weeks' Notice at UFC Saudi Arabia Sports Illustrated
-
-Status: needs verification
-
-## ‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement
-
-Source: MMA Fighting | Published: 2026-11-27T18:00:00+00:00
-
-https://www.mmafighting.com/ufc/523330/i-bit-him-one-time-and-he-kicked-me-in-my-throat-tyron-woodley-reacts-to-stephen-thompsons-ufc-retirement
-
-> Tyron Woodley shared more time in the UFC octagon with Stephen Thompson than anyone else, and their competitive rivalry has transformed into a friendship. Thompson recently retired following a highlight-reel knockout win over Charles Radtke at UFC 334. “Wonderboy” competed for the UFC welterweight title twice in his career, with both fights taking place against […]
-
-Status: needs verification
-
-## ‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement - MMA Fighting
+## ‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement - Yahoo Sports
 
 Source: Google News MMA discovery | Published: 2026-11-27T18:00:00+00:00
 
-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmt5a3VHdWVSaXlTc2pzTjRfNGVoVUlDcERCZ3hLQkV4cmVLbUNiNHNvc3l1eS14NjMxOTZONVNuOXo1S0ZPSWpxanEzcEtHX0NmRGZNbEtZYXRQc0FQWkxBdUNObm1aRUt0bmtJMm9ELTIxYlkwQ3dhTjQxbzRseUhMTWItYUdkY3pSSUlCQjY5MUJHRTFzLVlkUTJUbDZ5N01Cc0c1bVN5bzhqbFI4QnVUTEdGOGt6N2c4QWtVNmRENG5Ma3RIRGxTVk5nZVRFbkx3a3hFb25LelJF?oc=5
+https://news.google.com/rss/articles/CBMiggFBVV95cUxNWE05LUpmVE9LVUQ5RlJ2Z3dmSFVfVXdsMVV1SWRNVGZ3TTBvemhNcFdINHdoY21qSk5fTVZhOGpZUGdUU19jckRickNDQkZwNWNTYnNuSFhDRENGbnhqVHBuLUhBRVd0aHo3ZVRUSWFaaWVRYlhoMWFlUlVvMTZCbTh3?oc=5
 
-> ‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement MMA Fighting
+> ‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement Yahoo Sports
 
 Status: needs verification
