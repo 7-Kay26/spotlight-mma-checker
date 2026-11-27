@@ -243,17 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T09:15:15Z",
-    "queue_checked_at": "2026-11-27T07:29:51.468590+00:00",
-    "queue_age_minutes": 105,
-    "feed_errors": [
-      {
-        "source": "Google News MMA discovery",
-        "error": "HTTP Error 503: Service Unavailable"
-      }
-    ],
+    "checked_at": "2026-11-27T10:29:00Z",
+    "queue_checked_at": "2026-11-27T10:28:10.436913+00:00",
+    "feed_errors": [],
+    "assessed": 2,
     "published": 0,
-    "notes": "No unprocessed candidates among 38 queued items. Latest collector report remains within two hours. Google feed error belongs to the previously recorded run; prior direct retry succeeded. No new actionable blocker or publication."
+    "notes": "Recovered stale collector with one manual run. Two new queue entries are fighter commentary and do not qualify. No publication or new actionable blocker."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -347,20 +342,16 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-27T07:30:00Z",
+    "observed_at": "2026-11-27T10:29:00Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 1,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45958823749",
-    "manual_recovery_result": "success_with_google_feed_error",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45982337254",
+    "manual_recovery_result": "success",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45927364484",
     "latest_scheduled_result": "success",
     "schedule_blocker_resolved": false,
-    "google_news_retry": {
-      "status": 200,
-      "bytes": 129164,
-      "scope": "live fetch from execution workspace; no independent candidate publication"
-    }
+    "latest_feed_errors": []
   },
   "https://www.mmamania.com/mma-prospects/488391/mmamania-coms-prospect-of-the-month-sebastian-oyervidez": {
     "story": "MMAmania.com’s ‘Prospect of the Month:’ Sebastian Oyervidez",
@@ -421,6 +412,26 @@
       "https://www.mmamania.com/latest-news/488511/seven-wins-later-ex-ufc-prospect-nick-maximov-still-waiting-for-call-back-what-do-i-gotta-do"
     ],
     "assessed_at": "2026-11-27T05:24:00Z",
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQlJxNGkyMnlsRjAyZGVFamdXaXZLRTQ1OEk4UDlDNlp2ZnQ2ZWltLS1qZW1jdzZTVW9kS0M5bEswbHdvcktXUzNjUXNSTHJUaFVvY0kxbW9ja3BYd0N5aVl5LUdUNEZrUFYxNFZFX0hodWtnMTAzSHlVRXVpMXU3TGFEWUNBVDV4VHhXSm5rdzBFTWNCNDZwbzF1QjlhYm1sSm5GU1JpQnhjb2JDUEpBYWtWckwzd00?oc=5": {
+    "title": "Dan Hooker Weighs In On Navajo Stirling's Championship Dilemma With Teammate Carlos Ulberg - MMA Sucka",
+    "assessed_at": "2026-11-27T10:29:00Z",
+    "status": "not_selected",
+    "reason": "Fighter commentary on teammates potentially meeting for a championship; no new confirmed booking, cancellation or event change. Same teammate dilemma previously assessed.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQlJxNGkyMnlsRjAyZGVFamdXaXZLRTQ1OEk4UDlDNlp2ZnQ2ZWltLS1qZW1jdzZTVW9kS0M5bEswbHdvcktXUzNjUXNSTHJUaFVvY0kxbW9ja3BYd0N5aVl5LUdUNEZrUFYxNFZFX0hodWtnMTAzSHlVRXVpMXU3TGFEWUNBVDV4VHhXSm5rdzBFTWNCNDZwbzF1QjlhYm1sSm5GU1JpQnhjb2JDUEpBYWtWckwzd00?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzJFYWNiNGtjWGdPNHA5d1hfVlRYSzZqZmkzbmZ0Nlh1TWVid2VLOGRQY1VsVTBsY3FnV0lzaUxvYjZvMmI1SEpWdnp4LW9ZOGU4NS1iZUpzdVZlUkJBSmoyNHdfSjZFSUtXdy04M1ZLZkt2V3hJSll6ekxzTXdmU3VmZTkwV0dmQkE?oc=5": {
+    "title": "Carlos Prates Not Viewing UFC Interim Belt as Real Title - Yahoo Sports",
+    "assessed_at": "2026-11-27T10:29:00Z",
+    "status": "not_selected",
+    "reason": "Fighter opinion about interim-title legitimacy; minor commentary, no new confirmed bout or promotion development.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzJFYWNiNGtjWGdPNHA5d1hfVlRYSzZqZmkzbmZ0Nlh1TWVid2VLOGRQY1VsVTBsY3FnV0lzaUxvYjZvMmI1SEpWdnp4LW9ZOGU4NS1iZUpzdVZlUkJBSmoyNHdfSjZFSUtXdy04M1ZLZkt2V3hJSll6ekxzTXdmU3VmZTkwV0dmQkE?oc=5"
+    ],
     "published_links": {}
   }
 }
