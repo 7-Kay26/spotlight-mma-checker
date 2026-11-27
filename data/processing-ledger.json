@@ -243,12 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T01:56:26Z",
-    "queue_checked_at": "2026-11-27T00:15:24.631220+00:00",
-    "queue_age_minutes": 101,
+    "checked_at": "2026-11-27T02:48:00Z",
+    "queue_checked_at": "2026-11-27T02:16:41.586000+00:00",
+    "queue_age_minutes": 31,
     "feed_errors": [],
     "published": 0,
-    "notes": "Queue unchanged with no unprocessed candidates; latest report remains within two-hour threshold. No duplicate publication or repeated blocker notification."
+    "notes": "One unprocessed item was a syndicated duplicate of previously assessed unsigned DDP booking teaser. No qualifying story. Confirmed first successful scheduled GitHub collector run."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -341,13 +341,16 @@
     "published_links": {}
   },
   "_collector_health": {
-    "status": "manual_refresh_recovered_schedule_unverified",
-    "observed_at": "2026-11-27T00:16:00Z",
+    "status": "scheduled_run_verified",
+    "observed_at": "2026-11-27T02:48:00Z",
     "workflow_state": "active",
-    "observed_scheduled_runs": 0,
+    "observed_scheduled_runs": 1,
     "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45915651023",
     "manual_recovery_result": "success",
-    "alert_reported": true
+    "alert_reported": true,
+    "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45927364484",
+    "latest_scheduled_result": "success",
+    "schedule_blocker_resolved": true
   },
   "https://www.mmamania.com/mma-prospects/488391/mmamania-coms-prospect-of-the-month-sebastian-oyervidez": {
     "story": "MMAmania.com’s ‘Prospect of the Month:’ Sebastian Oyervidez",
@@ -377,6 +380,17 @@
     "sources": [
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZG4tTDhReS0xVHJVdEVaMVRVelNRQmJoVkJVNDlPSVZrYnA1dGU5ZzFQc3U0Z3ZRSHhnQTVKd0NwVTVaU1NPOXZoN2d6a3ZrV2Y2emFmYXJ2b1lyVWd6VE95MVR1bldkMlRQMkhQc2J3dkpiYUpfdG1Qei1ld3cxZWNGN3RYQ3U3cC1KMVVsRW1uMS1aRDJz?oc=5"
     ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1A5NHBFV2hJZjlnTG0zb0NBOTJiazJwVzhlc2VWMTRsS2N3RWtFS2dwMlU2NkJuOW5lV21iV3c3RE9XdDFtM2xRRGRXUnlFTUNsb0lOamRYNXpHemJ1TUJ0di13RGN2NHBncVFMWU51T29SaDhuMlp0MHp6ZnVSQ3pWZjJRMXE3T3E4TXFUMjBfdEd3UHU3S1ZCNzdTeUZ3ZWVBQXZFQWxlV2pBN2JUVnBXeVlnZW1GSmRocWdtYVlZNDJkUWlqSWlTOXo?oc=5": {
+    "story": "Dricus Du Plessis confirms next UFC fight: 'Big news will be out soon' - MMA Junkie",
+    "status": "not_selected",
+    "reason": "Syndicated duplicate of previously assessed MMA Junkie report. Fighter said next fight was not signed; opponent/date not announced. No new confirmed booking.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1A5NHBFV2hJZjlnTG0zb0NBOTJiazJwVzhlc2VWMTRsS2N3RWtFS2dwMlU2NkJuOW5lV21iV3c3RE9XdDFtM2xRRGRXUnlFTUNsb0lOamRYNXpHemJ1TUJ0di13RGN2NHBncVFMWU51T29SaDhuMlp0MHp6ZnVSQ3pWZjJRMXE3T3E4TXFUMjBfdEd3UHU3S1ZCNzdTeUZ3ZWVBQXZFQWxlV2pBN2JUVnBXeVlnZW1GSmRocWdtYVlZNDJkUWlqSWlTOXo?oc=5",
+      "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/26/dricus-du-plessis-next-ufc-fight-announced-soon-middleweight/92969023007/"
+    ],
+    "assessed_at": "2026-11-27T02:48:00Z",
     "published_links": {}
   }
 }
