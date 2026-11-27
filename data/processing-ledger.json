@@ -243,13 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-27T19:51:38Z",
-    "queue_checked_at": "2026-11-27T17:59:29.361042+00:00",
-    "queue_age_minutes": 112,
+    "checked_at": "2026-11-27T20:49:20Z",
+    "queue_checked_at": "2026-11-27T20:45:45.438455+00:00",
     "feed_errors": [],
-    "assessed": 0,
-    "published": 0,
-    "notes": "All 53 queued candidates already assessed. Collector report within two-hour freshness threshold with no feed errors. No new qualifying story or actionable blocker. X-only Buffer publishing scope remains active; authentic logo source is now archived and verified."
+    "assessed": 14,
+    "published": 1,
+    "notes": "Verified Garbrandt retirement plans via original interview reporting; inspected poster and exact composited source logo, confirmed channel health and duplicate check, published through Buffer, and read get_post status sent with live externalLink. Held uncertain short-notice report. No YouTube/Instagram work."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -343,10 +342,10 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-27T17:59:57Z",
+    "observed_at": "2026-11-27T20:49:20Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 2,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46046019416",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46065807854",
     "manual_recovery_result": "success",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45987035208",
@@ -588,5 +587,173 @@
       "instagram"
     ],
     "notes": "User removed YouTube; only X remains authorized in this workflow. Preserve historical platform outcomes without retrying removed platforms."
+  },
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzlLUEg0c3pKdk05QlZxVUNyNVRuUTZqbDd5MVgyNWluemJlSHdQS0E5UWRHRkcydjlTSXA5ZHNwempzbXNYSU9WYmlvOEtpZmhFcVlRR3VvbnRhUDVmajRsN29QWHZnTVlFUWFvSk44d2o1a1FwUFpST1ZZZF94Ri1YMk43TGNXcHJ2Y0lpQ1lXa01UV3RvRWVLTXVOWHdfMzFPM2ZNWk5XQ1pWeWYybjVRdG5YcjBPbTh1VEdSZVc?oc=5": {
+    "title": "Top UFC coach points out major flaw in Aleksandre Topuria’s fighting style after first UFC defeat - MMA Sucka",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "not_selected",
+    "reason": "Fighter/coach commentary with no newly confirmed bout or promotion development.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzlLUEg0c3pKdk05QlZxVUNyNVRuUTZqbDd5MVgyNWluemJlSHdQS0E5UWRHRkcydjlTSXA5ZHNwempzbXNYSU9WYmlvOEtpZmhFcVlRR3VvbnRhUDVmajRsN29QWHZnTVlFUWFvSk44d2o1a1FwUFpST1ZZZF94Ri1YMk43TGNXcHJ2Y0lpQ1lXa01UV3RvRWVLTXVOWHdfMzFPM2ZNWk5XQ1pWeWYybjVRdG5YcjBPbTh1VEdSZVc?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVF6NVVNVTFBT1A3X0lwbWNFSEN2LTRnQXRCajBoUWdfck1LQzBkZGRQdXhHM0hyMFVkOFBKZFl3eU9yVkwzTlF2OG1RTXRLUXJ6M0hTUGRfZWRGaU9FTnk0ZVp1UzVQU3RiZVpLWElGZXRfeVpqUWpHQjNVNWVYaUd6RTZIY3JEZnVlc0hmcjNHQVhuS0hPRQ?oc=5": {
+    "title": "Cody Garbrandt confirms UFC retirement fight planned for Cleveland - Yahoo Sports",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "duplicate_published",
+    "reason": "Garbrandt directly told MMA Fighting he plans his last fight in Cleveland in February. Opponent under discussion, no signed matchup claimed. Published as his retirement plan, not an official UFC booking.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523641/cody-garbrandt-announces-retirement-bout-to-take-place-at-ufc-cleveland"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
+  },
+  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQmRaRGxMQW02aTRhTTY3dUJYVFo1Qlo1Rk5qM3NVR05Mby05allPckIxMVQ1Q2pqVndwb1JIRUo3VXMzWHRjSlg5UURSQ0RSSEphOWhuQmFWZG85X1RwelJUd3NEWUQ5akE1REVLZkRtSTN6aDdvYnF2ZmlzTGEwYklyZFo1ZzBQVC1NTHZ4aW0zQ19uYk9oZ1QxcUt1WXVGYlRNc21BV3hzVDh4Y0VsQlFUOHg1eFQ4UFcwSWk0ZHpsMlZWQ19aeWpXWXhCcTV5cDFXZXln?oc=5": {
+    "title": "Cody Garbrandt confirms UFC retirement fight planned for Cleveland - MMA Junkie",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "duplicate_published",
+    "reason": "Garbrandt directly told MMA Fighting he plans his last fight in Cleveland in February. Opponent under discussion, no signed matchup claimed. Published as his retirement plan, not an official UFC booking.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523641/cody-garbrandt-announces-retirement-bout-to-take-place-at-ufc-cleveland"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
+  },
+  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ajJDY0EwaXpqNEs0RWg1c0Q0Rk9MYUwxQUswRnBfNHdCZTZZNXV4NkdjVmF1aHVPVDFybHpPM0xoZV9QWkxFX0tWVlUzUUJ4SlQ4dVl5bXF3cnpqTUhyTUF3?oc=5": {
+    "title": "UFC 334 results – Gane vs. Hokit - MyMMANews",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "not_selected",
+    "reason": "Original results article published November 14 and modified November 15; recycled via Google discovery November 27. Not current news.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ajJDY0EwaXpqNEs0RWg1c0Q0Rk9MYUwxQUswRnBfNHdCZTZZNXV4NkdjVmF1aHVPVDFybHpPM0xoZV9QWkxFX0tWVlUzUUJ4SlQ4dVl5bXF3cnpqTUhyTUF3?oc=5",
+      "https://mymmanews.com/ufc-334-results-gane-vs-hokit/"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHRNcVNtM0VidnVsWjM5VUs0aXZKdTVBUV8yVWgzQV9PTDNtVnA5UlY4ZExLdkNpSU11cjZyajFfTEowMEhkOVVQWndfcDVKZXJnZURpYVFsa1NYMFRRcFhkRGVKXy1fNUNQbVpDYmttZ2JHMzZzWWNadlR1MUtzLW9LbWloS3l5R1VlSllmck9HRUEyTkh1TENhYVJOenptWVNjWllKYlA1RENnWExlWTVPd0ROY09SaHROTGZERlR2eXo4UXE5VkdMRHpXVENX?oc=5": {
+    "title": "Cody Garbrandt confirms UFC 'farewell' fight planned for Cleveland - MMA Junkie",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "duplicate_published",
+    "reason": "Garbrandt directly told MMA Fighting he plans his last fight in Cleveland in February. Opponent under discussion, no signed matchup claimed. Published as his retirement plan, not an official UFC booking.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523641/cody-garbrandt-announces-retirement-bout-to-take-place-at-ufc-cleveland"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
+  },
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFVLaVRZMVVJVDBkQTRVM0gwY1NEbl9OQjN4OHFqOC0yRVY5eFB2OEw5Q01nNTR5cHA2RDZiYUNMbFZud2dWTC0xT1Z2dlNTQXFrSUlQZWlSNlR2bnFkdTh4MWo1TmdSXzNsNTdWTmY5SDdvYjhFeDJ2ZG9mM0VCWjhJczc2UDJjaThQYUpBTHVGemstYjgwc2VfX1FxVUEtZUpmS3FiMTJ0ZjV3ZTBzb0dQSUd1djh4c2FCMQ?oc=5": {
+    "title": "UFC's Carlos Prates Shares Bright Side of UFC 336 Interim Title Fight - Sports Illustrated",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "not_selected",
+    "reason": "Fighter/coach commentary with no newly confirmed bout or promotion development.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFVLaVRZMVVJVDBkQTRVM0gwY1NEbl9OQjN4OHFqOC0yRVY5eFB2OEw5Q01nNTR5cHA2RDZiYUNMbFZud2dWTC0xT1Z2dlNTQXFrSUlQZWlSNlR2bnFkdTh4MWo1TmdSXzNsNTdWTmY5SDdvYjhFeDJ2ZG9mM0VCWjhJczc2UDJjaThQYUpBTHVGemstYjgwc2VfX1FxVUEtZUpmS3FiMTJ0ZjV3ZTBzb0dQSUd1djh4c2FCMQ?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODNuUWR4QkFqdUJsME5lamN3WFNwSXJLcE9qdEZ2dzFNMUdRYVJhZ0FEdEoxZVQyU3dncWFwWTYzQW9abWIwYW95XzBLY1RpdGhQU2djdUJjRzFwbTIxOThrUVl3R0hJSnVlZHl1dUxBbWEySVRqTHdyOEJGV19Sd294S3JrUjlqWFpTODc3em55bkFWY2Y3ZmQtRHJIUEFTVlRuUGFYcTVWY041S1FJ?oc=5": {
+    "title": "Cody Garbrandt announces retirement bout to take place at UFC Cleveland - MMA Fighting",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "duplicate_published",
+    "reason": "Garbrandt directly told MMA Fighting he plans his last fight in Cleveland in February. Opponent under discussion, no signed matchup claimed. Published as his retirement plan, not an official UFC booking.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523641/cody-garbrandt-announces-retirement-bout-to-take-place-at-ufc-cleveland"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
+  },
+  "https://www.mmafighting.com/ufc/523641/cody-garbrandt-announces-retirement-bout-to-take-place-at-ufc-cleveland": {
+    "title": "Cody Garbrandt announces retirement bout to take place at UFC Cleveland",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "x_published",
+    "reason": "Garbrandt directly told MMA Fighting he plans his last fight in Cleveland in February. Opponent under discussion, no signed matchup claimed. Published as his retirement plan, not an official UFC booking.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523641/cody-garbrandt-announces-retirement-bout-to-take-place-at-ufc-cleveland"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    },
+    "buffer_post_id": "6b09ecac277f27038a398699",
+    "asset_url": "https://raw.githubusercontent.com/7-Kay26/spotlight-mma-checker/26237a2a6fe6c331908f89d23ba256cb95e6781c/assets/posters/cody-garbrandt-retirement-plans.png",
+    "publication_verified_at": "2026-11-27T20:49:20Z",
+    "verification": {
+      "publication_time": "2026-11-27T19:00:00Z",
+      "basis": "Original Mike Heck interview quotes in MMA Fighting",
+      "booking_status": "Retirement plans only; opponent undecided",
+      "logo_sha256": "a5f8c93d2127eaba46164a8b93ff617036690b904204f27e3f0a061d07ba54d8",
+      "image_dimensions": [
+        1600,
+        900
+      ]
+    }
+  },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjNGYks1TDI3eno4bXFmUjhvaUh4SVMtd09ZQXFBUjZ2WEg5OEtIeXJnSlVTMWZQS2NsY1U0dDJnTl9xTy1KQ1lpcUFjQ0h2cFQ4WU15bXYwRUVXYjJqc3NyT2tlNVRjQjdmNEVMM2x0V0w1SjJtaTY1cHM5WGZBbGtDMFlmRVBpTkFONHNZWkFVaXFOQ2laMw?oc=5": {
+    "title": "Cody Garbrandt announces retirement bout to take place at UFC Cleveland - Yahoo Sports",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "duplicate_published",
+    "reason": "Garbrandt directly told MMA Fighting he plans his last fight in Cleveland in February. Opponent under discussion, no signed matchup claimed. Published as his retirement plan, not an official UFC booking.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523641/cody-garbrandt-announces-retirement-bout-to-take-place-at-ufc-cleveland"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
+  },
+  "https://www.mmamania.com/ufc-news/488765/andrei-arlovski-eyes-tom-aspinall-rematch-ciryl-gane-dance-smashing-chase-demoor-misfits-boxing": {
+    "title": "Andrei Arlovski eyes Tom Aspinall rematch, Ciryl Gane ‘dance’ after smashing Chase DeMoor for Misfits Boxing",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "not_selected",
+    "reason": "Speculative callouts for future UFC return while discussing upcoming boxing match; no confirmed new UFC booking.",
+    "sources": [
+      "https://www.mmamania.com/ufc-news/488765/andrei-arlovski-eyes-tom-aspinall-rematch-ciryl-gane-dance-smashing-chase-demoor-misfits-boxing"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjF1VG4xUVNfMTExc3BiT1FUdUxoMzlOR0NuTy1FaWZxSDQzZ2trQXF4TkdfeUwyOGlEVkMtWGxaRFBwQVFLeEhSX3ZEaDg5aGJnWE5QN3dpM1ZUMVRnVnNrel9TWEdaQkw1OFp3TGR1Ui1ZUjhXOGtFRU5PaEtVcU9qSDBaLXRmVXBDOVotb04ydkdaNUJWWGI3S05NWHBtN0I3NVJSZjZ6VHc4RDRKaw?oc=5": {
+    "title": "UFC Newcomer Booked to Fight on Less Than 2 Weeks' Notice at UFC Saudi Arabia - Sports Illustrated",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "awaiting_primary_verification",
+    "reason": "SI attributes Bryczek–Daniyalbekov to Vestnik MMA, uses apparently/reportedly, and gives December 7 while also calling event next Saturday (calendar mismatch). No primary confirmation obtained. Hold; do not publish uncertain booking/date.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjF1VG4xUVNfMTExc3BiT1FUdUxoMzlOR0NuTy1FaWZxSDQzZ2trQXF4TkdfeUwyOGlEVkMtWGxaRFBwQVFLeEhSX3ZEaDg5aGJnWE5QN3dpM1ZUMVRnVnNrel9TWEdaQkw1OFp3TGR1Ui1ZUjhXOGtFRU5PaEtVcU9qSDBaLXRmVXBDOVotb04ydkdaNUJWWGI3S05NWHBtN0I3NVJSZjZ6VHc4RDRKaw?oc=5",
+      "https://www.si.com/fannation/mma/news/ufc-newcomer-booked-to-fight-on-less-than-2-weeks-notice-ufc-saudi-arabia",
+      "https://x.com/VestnikMMA/status/2125214324511621550"
+    ],
+    "published_links": {}
+  },
+  "https://www.mmafighting.com/ufc/523330/i-bit-him-one-time-and-he-kicked-me-in-my-throat-tyron-woodley-reacts-to-stephen-thompsons-ufc-retirement": {
+    "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "not_selected",
+    "reason": "Reaction to previously announced Thompson retirement, not a fresh retirement announcement.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523330/i-bit-him-one-time-and-he-kicked-me-in-my-throat-tyron-woodley-reacts-to-stephen-thompsons-ufc-retirement"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmt5a3VHdWVSaXlTc2pzTjRfNGVoVUlDcERCZ3hLQkV4cmVLbUNiNHNvc3l1eS14NjMxOTZONVNuOXo1S0ZPSWpxanEzcEtHX0NmRGZNbEtZYXRQc0FQWkxBdUNObm1aRUt0bmtJMm9ELTIxYlkwQ3dhTjQxbzRseUhMTWItYUdkY3pSSUlCQjY5MUJHRTFzLVlkUTJUbDZ5N01Cc0c1bVN5bzhqbFI4QnVUTEdGOGt6N2c4QWtVNmRENG5Ma3RIRGxTVk5nZVRFbkx3a3hFb25LelJF?oc=5": {
+    "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement - MMA Fighting",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "not_selected",
+    "reason": "Reaction to previously announced Thompson retirement, not a fresh retirement announcement.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmt5a3VHdWVSaXlTc2pzTjRfNGVoVUlDcERCZ3hLQkV4cmVLbUNiNHNvc3l1eS14NjMxOTZONVNuOXo1S0ZPSWpxanEzcEtHX0NmRGZNbEtZYXRQc0FQWkxBdUNObm1aRUt0bmtJMm9ELTIxYlkwQ3dhTjQxbzRseUhMTWItYUdkY3pSSUlCQjY5MUJHRTFzLVlkUTJUbDZ5N01Cc0c1bVN5bzhqbFI4QnVUTEdGOGt6N2c4QWtVNmRENG5Ma3RIRGxTVk5nZVRFbkx3a3hFb25LelJF?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWE05LUpmVE9LVUQ5RlJ2Z3dmSFVfVXdsMVV1SWRNVGZ3TTBvemhNcFdINHdoY21qSk5fTVZhOGpZUGdUU19jckRickNDQkZwNWNTYnNuSFhDRENGbnhqVHBuLUhBRVd0aHo3ZVRUSWFaaWVRYlhoMWFlUlVvMTZCbTh3?oc=5": {
+    "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement - Yahoo Sports",
+    "assessed_at": "2026-11-27T20:49:20Z",
+    "status": "not_selected",
+    "reason": "Reaction to previously announced Thompson retirement, not a fresh retirement announcement.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWE05LUpmVE9LVUQ5RlJ2Z3dmSFVfVXdsMVV1SWRNVGZ3TTBvemhNcFdINHdoY21qSk5fTVZhOGpZUGdUU19jckRickNDQkZwNWNTYnNuSFhDRENGbnhqVHBuLUhBRVd0aHo3ZVRUSWFaaWVRYlhoMWFlUlVvMTZCbTh3?oc=5"
+    ],
+    "published_links": {}
   }
 }
