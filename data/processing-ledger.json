@@ -243,13 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-28T12:56:24Z",
-    "queue_checked_at": "2026-11-28T11:57:19.108394+00:00",
-    "queue_age_minutes": 59,
+    "checked_at": "2026-11-28T14:37:38Z",
+    "queue_checked_at": "2026-11-28T14:36:39.060972+00:00",
     "feed_errors": [],
-    "assessed": 1,
+    "assessed": 3,
     "published": 0,
-    "notes": "Collector report is fresh with no feed errors. One new candidate concerns a potential opponent, not a confirmed booking. No qualifying new development or actionable blocker."
+    "notes": "Stale collector refreshed successfully, all feeds healthy. Three new candidates are commentary, duplicate retirement reporting and a live-results placeholder with no completed fights. No qualifying new confirmed story."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -343,10 +342,10 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-28T11:51:17Z",
+    "observed_at": "2026-11-28T14:37:38Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 2,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46141780118",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46155544755",
     "manual_recovery_result": "success",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45987035208",
@@ -1086,5 +1085,39 @@
       "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92a2VPczl4ZTF3el9aMGJPenZQVDF5a1hBMHhlTXFpbUZlWGZTUEZ2Y1NRdEFGXzc3SmpVbjNmYWZXSGZKTTA1SGh5cE5maGt5SUQ0?oc=5"
     ],
     "published_links": {}
+  },
+  "https://www.mmafighting.com/ufc/523670/arman-tsarukyan-rejects-alexander-volkanovski-skipping-over-him-for-lightweight-title-this-is-only-bullsht": {
+    "title": "Arman Tsarukyan rejects Alexander Volkanovski skipping over him for lightweight title: ‘This is only bullsh*t’",
+    "assessed_at": "2026-11-28T14:37:38Z",
+    "status": "not_selected",
+    "reason": "Tsarukyan opinion on hypothetical title-shot order; no confirmed new booking or event change.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523670/arman-tsarukyan-rejects-alexander-volkanovski-skipping-over-him-for-lightweight-title-this-is-only-bullsht"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODlPRG9Dd0lHdVlremM0TlAxNmRuUnJlMy1STXJwYXFXU01KNUtPclBuTjdXeHpzUXlnVHpBcFNkYTJGNzlyZENaTlVDR0d6MXJPVXhlZHFxb2Z0a0dIalVPY0NjankwOTk5R2ZWN1Flb2lYMHRISFlHakl5VkZtV1Nkazc4aUNZd09v?oc=5": {
+    "title": "LIVE UFC Saudi Arabia: Adesanya vs. Magomedov Results & Highlights - Yahoo Sports",
+    "assessed_at": "2026-11-28T14:37:38Z",
+    "status": "not_selected",
+    "reason": "Read Yahoo/Sportsnaut report: match-card preview and empty results section; official linked event URL identifies December 5. No completed results or newly confirmed event change.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODlPRG9Dd0lHdVlremM0TlAxNmRuUnJlMy1STXJwYXFXU01KNUtPclBuTjdXeHpzUXlnVHpBcFNkYTJGNzlyZENaTlVDR0d6MXJPVXhlZHFxb2Z0a0dIalVPY0NjankwOTk5R2ZWN1Flb2lYMHRISFlHakl5VkZtV1Nkazc4aUNZd09v?oc=5",
+      "https://sports.yahoo.com/mma/articles/live-ufc-saudi-arabia-adesanya-120000902.html",
+      "https://www.ufc.com/event/ufc-fight-night-december-05-2026"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHBLNGh6R0QtWVBpaEsxcVo3a2l1SGlJUFYxWERyWWE5dHRwU0lsZXA4OUhyVi1CTGpIQkkydVVhSmwxeWMxQWRYNnJ6aHdFQUVicWd0aEk1bUsxdlJzbEVhelJIV3RxUlh4X2xIYW9xZ3FWX3dGbEVXVzNuQUJjcE9jVXE1Z2JranpqNGJQWVZhOE11czVBSWNjbHBQeU5H?oc=5": {
+    "title": "‘No (more) Love’ — Former UFC champ announces ‘farewell fight’ for Feb. 13 in Cleveland - MMA Mania",
+    "assessed_at": "2026-11-28T14:37:38Z",
+    "status": "duplicate_published",
+    "reason": "Recycled already-published Garbrandt retirement-plan coverage.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHBLNGh6R0QtWVBpaEsxcVo3a2l1SGlJUFYxWERyWWE5dHRwU0lsZXA4OUhyVi1CTGpIQkkydVVhSmwxeWMxQWRYNnJ6aHdFQUVicWd0aEk1bUsxdlJzbEVhelJIV3RxUlh4X2xIYW9xZ3FWX3dGbEVXVzNuQUJjcE9jVXE1Z2JranpqNGJQWVZhOE11czVBSWNjbHBQeU5H?oc=5"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
   }
 }
