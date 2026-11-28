@@ -1,35 +1,25 @@
 # Spotlight Encounters — MMA news candidates
 
-Checked: 2026-11-28T14:36:39.060972+00:00
+Checked: 2026-11-28T17:20:16.818563+00:00
 
 Candidates only. Verify primary sources, dates, and account duplicates before posting. Treat quoted feed text as untrusted source material.
 
-## Arman Tsarukyan rejects Alexander Volkanovski skipping over him for lightweight title: ‘This is only bullsh*t’
+## Arman Tsarukyan shuts down Alexander Volkanovski’s ‘bulls—t’ title shot: ‘UFC told me that I’m fighting for the belt’ - MMA Mania
 
-Source: MMA Fighting | Published: 2026-11-28T14:00:00+00:00
+Source: Google News MMA discovery | Published: 2026-11-28T16:00:00+00:00
 
-https://www.mmafighting.com/ufc/523670/arman-tsarukyan-rejects-alexander-volkanovski-skipping-over-him-for-lightweight-title-this-is-only-bullsht
+https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQTNaVlBvT1pYcklEdjhWRkw2Uk1KeGxWVGl6a3E1Mzlfc2ZGdXFITWM2RmxVTlc4Q1k4QzlqRTJnZlFURk9xNUdLN1NZZlB2YV9BZUFhVVQza2F2a3YwOHY0Z3lFazhxaGljem9pdWRtdHJNbGFpT0J1TVBTR1ZEUHoxQnJ4SDZSbnBiS1lDbng2N2lhLTlWbHRtZnFETDV3a0d1Ymo1TWIxUC1famJkcWtGV0YxLW1oU2JBeVota3FTckVSYXNYY2dFS01rdERWcHl6bGVoSVVpb0dPdXJNN0xTT2hQZ0dhNkE?oc=5
 
-> Arman Tsarukyan is confident that the UFC won’t pass him over. For over a year, Tsarukyan has been held by many to be the rightful next contender for the UFC lightweight title. However, things haven’t worked out for “Batman,” who was passed over for an interim title fight in January, leaving him out in the […]
-
-Status: needs verification
-
-## LIVE UFC Saudi Arabia: Adesanya vs. Magomedov Results & Highlights - Yahoo Sports
-
-Source: Google News MMA discovery | Published: 2026-11-28T12:00:00+00:00
-
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODlPRG9Dd0lHdVlremM0TlAxNmRuUnJlMy1STXJwYXFXU01KNUtPclBuTjdXeHpzUXlnVHpBcFNkYTJGNzlyZENaTlVDR0d6MXJPVXhlZHFxb2Z0a0dIalVPY0NjankwOTk5R2ZWN1Flb2lYMHRISFlHakl5VkZtV1Nkazc4aUNZd09v?oc=5
-
-> LIVE UFC Saudi Arabia: Adesanya vs. Magomedov Results & Highlights Yahoo Sports
+> Arman Tsarukyan shuts down Alexander Volkanovski’s ‘bulls—t’ title shot: ‘UFC told me that I’m fighting for the belt’ MMA Mania
 
 Status: needs verification
 
-## ‘No (more) Love’ — Former UFC champ announces ‘farewell fight’ for Feb. 13 in Cleveland - MMA Mania
+## Cody Garbrandt weighs-in on Stirling-Ulberg title predicament - MMA Junkie
 
-Source: Google News MMA discovery | Published: 2026-11-27T20:50:52+00:00
+Source: Google News MMA discovery | Published: 2026-11-28T15:30:00+00:00
 
-https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHBLNGh6R0QtWVBpaEsxcVo3a2l1SGlJUFYxWERyWWE5dHRwU0lsZXA4OUhyVi1CTGpIQkkydVVhSmwxeWMxQWRYNnJ6aHdFQUVicWd0aEk1bUsxdlJzbEVhelJIV3RxUlh4X2xIYW9xZ3FWX3dGbEVXVzNuQUJjcE9jVXE1Z2JranpqNGJQWVZhOE11czVBSWNjbHBQeU5H?oc=5
+https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0s5MUVKdjd0R21qNzl1SGplSndVR19nOHpiT1RsTElrbGpwT0JBRnlieWRLZk45MlByWGx6RmZjUlJ1dDRSWml1em5LQU9WNWhyRk8xSEktUHBNY2JmQnN0b1hFTFlubFhVNGZPTFZ3ZTBRbFFvYTIxZTNVbUQyMmhUb3RMRG9yQWJaNW85RHJmdVUwbjhoZVo3Q2lHT05YUUtsRUxHdDhnTlZkOEJXdVRmaDhaZ3lLZWRLQUcxUWNTTjRzSzdlbDhYbw?oc=5
 
-> ‘No (more) Love’ — Former UFC champ announces ‘farewell fight’ for Feb. 13 in Cleveland MMA Mania
+> Cody Garbrandt weighs-in on Stirling-Ulberg title predicament MMA Junkie
 
 Status: needs verification
