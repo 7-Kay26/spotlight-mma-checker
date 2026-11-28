@@ -243,13 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-28T04:44:13Z",
-    "queue_checked_at": "2026-11-28T02:46:48.532657+00:00",
-    "queue_age_minutes": 117,
+    "checked_at": "2026-11-28T06:27:18Z",
+    "queue_checked_at": "2026-11-28T06:26:35.567432+00:00",
     "feed_errors": [],
-    "assessed": 0,
+    "assessed": 8,
     "published": 0,
-    "notes": "All 82 queued candidates already assessed. Collector report remains within two-hour freshness threshold with no feed errors. No new qualifying story or actionable blocker; no duplicate X publication."
+    "notes": "Refreshed stale collector successfully. Eight new entries assessed: duplicated retirement, recycled reports, speculative commentary and advance results placeholder. No qualifying confirmed new development."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -343,10 +342,10 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-28T01:55:16Z",
+    "observed_at": "2026-11-28T06:27:18Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 2,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46095393250",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46116611651",
     "manual_recovery_result": "success",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45987035208",
@@ -917,6 +916,90 @@
     "reason": "Conditional willingness to return for sufficient money; no confirmed comeback agreement, opponent or event. Speculative return commentary.",
     "sources": [
       "https://www.mmamania.com/latest-news/488741/retirement-over-stipe-miocic-open-to-ufc-return-if-theres-a-lot-of-money-involved"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcXpEY3A0SkJnSC11NmhkcjB2NUVNRkl3d2ZuaW5sZFBsQ191eDFsUUJMbVNNLXAtUi1KSWk0YUJ6UWY3eUdFNkJIUFNubEt1dVpSMjM5RnBlb1dHYW1PRGswMENVdDFDajNnUGdjX2hvZEJEUGxCVTlpbzI0SVBaWW5TYldod1pHYjlXQmdRMktOSS1idmozcGdCUjY3NzBPdFd5cFQ4cG8xaFQwbm9LUWhQLTlyaGlHbUNMbTlyOWxzVmpvcWFYYmZSWUE4ejMzWUhkNWI5N1lnc2NDN1E?oc=5": {
+    "title": "Conor McGregor Gets A Fresh Opponent Suggestion From Former UFC Champion Ahead Of His Long-Awaited Return - NDTV Sports",
+    "assessed_at": "2026-11-28T06:27:18Z",
+    "status": "not_selected",
+    "reason": "Suggested opponent only; no confirmed comeback booking.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcXpEY3A0SkJnSC11NmhkcjB2NUVNRkl3d2ZuaW5sZFBsQ191eDFsUUJMbVNNLXAtUi1KSWk0YUJ6UWY3eUdFNkJIUFNubEt1dVpSMjM5RnBlb1dHYW1PRGswMENVdDFDajNnUGdjX2hvZEJEUGxCVTlpbzI0SVBaWW5TYldod1pHYjlXQmdRMktOSS1idmozcGdCUjY3NzBPdFd5cFQ4cG8xaFQwbm9LUWhQLTlyaGlHbUNMbTlyOWxzVmpvcWFYYmZSWUE4ejMzWUhkNWI5N1lnc2NDN1E?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LYXpfUUZlaHdiRUlEaUNMT3g4UllqLWVZU2FxNnFZN29TR1ZUOVExNDJ2bmhmaHdjcVBJMWt6TlRib3N6MF9IdWZDNDNZaDRnV2ZB?oc=5": {
+    "title": "Cody Garbrandt Confirms UFC Retirement Fight Set to Happen at Cleveland - شبكة تواصل الإخبارية",
+    "assessed_at": "2026-11-28T06:27:18Z",
+    "status": "duplicate_published",
+    "reason": "Already-published Garbrandt retirement-plan interview, syndicated again.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LYXpfUUZlaHdiRUlEaUNMT3g4UllqLWVZU2FxNnFZN29TR1ZUOVExNDJ2bmhmaHdjcVBJMWt6TlRib3N6MF9IdWZDNDNZaDRnV2ZB?oc=5"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
+  },
+  "https://www.mmafighting.com/raf-wrestling/523674/raf-15-results-cejudo-vs-song": {
+    "title": "RAF 15 Results: Cejudo vs. Song",
+    "assessed_at": "2026-11-28T06:27:18Z",
+    "status": "not_selected",
+    "reason": "Read original: advance results placeholder lists matchups for November 28 at 8 p.m. ET (November 29 01:00 UTC), with no completed scores. Do not present as results.",
+    "sources": [
+      "https://www.mmafighting.com/raf-wrestling/523674/raf-15-results-cejudo-vs-song",
+      "https://www.mmafighting.com/raf-wrestling/523674/raf-15-results-cejudo-vs-song"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVQzRjN1ZFFPdU5tSV9zdk1WblZhak9fdE43WEJjdFBHb0pzMFQ1TmpNU1ZMVWpiR2psUEpPeHBCenZvMXVjQVlLbF83REM4UnBUSHEzeGFKbmkxLVh1OWtlYXZ3aE5RTDlqTlRWMG9oTGI2NW53OUd4MkRlV1A4cjJQdWtYaGplazllYjE4MFdkZ05HTWIyN3kyZ04ybHByNURYUA?oc=5": {
+    "title": "MMA Coach's Confirmation On Carlos Ulberg vs Navajo Stirling - MMA Sucka",
+    "assessed_at": "2026-11-28T06:27:18Z",
+    "status": "not_selected",
+    "reason": "Same previously assessed teammate refusal commentary; no actual booked fight cancellation.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVQzRjN1ZFFPdU5tSV9zdk1WblZhak9fdE43WEJjdFBHb0pzMFQ1TmpNU1ZMVWpiR2psUEpPeHBCenZvMXVjQVlLbF83REM4UnBUSHEzeGFKbmkxLVh1OWtlYXZ3aE5RTDlqTlRWMG9oTGI2NW53OUd4MkRlV1A4cjJQdWtYaGplazllYjE4MFdkZ05HTWIyN3kyZ04ybHByNURYUA?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzbVhtNkNIWFE4TzlmTENRWTJOT3RHR2VxWi1tdU1jVGQ4V1VoRXRSdkF1cGt1c1hGZDVhdnJSYV9sWkNkZkl3?oc=5": {
+    "title": "Wonderboy retires at UFC 334 with one last spinning wheel kick for the road - Digg",
+    "assessed_at": "2026-11-28T06:27:18Z",
+    "status": "not_selected",
+    "reason": "Recycled November 14 UFC 334 retirement/result, not fresh November 28 development.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzbVhtNkNIWFE4TzlmTENRWTJOT3RHR2VxWi1tdU1jVGQ4V1VoRXRSdkF1cGt1c1hGZDVhdnJSYV9sWkNkZkl3?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlI1TDBIaW1MNXM2MmU5QXNYTm9IWU1CeDFiVGtWSThTYU5RVkVUZnVTZWxoakZQNDNWSVR0UGJxa2ptTUlQY3F5bVBhdGIybEZyRFhLUEJ3UnhkSEFfaDJaUWZGVEhxdHBNcjR4dG5SS2FIeThEMDJfeXRsVnRaVXdDQ3AtWkx3ZE9zUzBIQUE?oc=5": {
+    "title": "Top Prospect Elijah Smith Confirms New UFC Contract - Yahoo Sports",
+    "assessed_at": "2026-11-28T06:27:18Z",
+    "status": "not_selected",
+    "reason": "Syndicated re-signing recap previously traced to November 25 MMA Junkie interview; unchanged.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlI1TDBIaW1MNXM2MmU5QXNYTm9IWU1CeDFiVGtWSThTYU5RVkVUZnVTZWxoakZQNDNWSVR0UGJxa2ptTUlQY3F5bVBhdGIybEZyRFhLUEJ3UnhkSEFfaDJaUWZGVEhxdHBNcjR4dG5SS2FIeThEMDJfeXRsVnRaVXdDQ3AtWkx3ZE9zUzBIQUE?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTJHYkV6RWtNVXJkbVNLSUVSZEZpWlE1RDd5NzNyb3ZDVmhMdHF5MnJWSGlsOC1PaVVESldSS2ZkcDA3c2lWZjFiaWRnNWlhTXN2bzNIN250X3Byd095YXdVRUl3TXh1eEY1R0E2YlZnVG01elBCZXBLWUswV2ZDYnBvSQ?oc=5": {
+    "title": "UFC Vegas 124 weigh-in results: Cortes-Acosta vs. Walker - MyMMANews",
+    "assessed_at": "2026-11-28T06:27:18Z",
+    "status": "not_selected",
+    "reason": "Read original MyMMANews metadata: published November 6 2026 18:40 UTC, modified November 7. Google discovery time is misleading; recycled weigh-in report.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTJHYkV6RWtNVXJkbVNLSUVSZEZpWlE1RDd5NzNyb3ZDVmhMdHF5MnJWSGlsOC1PaVVESldSS2ZkcDA3c2lWZjFiaWRnNWlhTXN2bzNIN250X3Byd095YXdVRUl3TXh1eEY1R0E2YlZnVG01elBCZXBLWUswV2ZDYnBvSQ?oc=5",
+      "https://mymmanews.com/ufc-vegas-124-weigh-in-results-cortes-acosta-vs-walker/"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjM0emh0ZGZZaFpZbk9fSlp4X09Jdk5LVUZUN3VPeEtVWGVnOTJUdnhMQTBlZGtmSUxqOG1mX3lCNTBaN3BWV0RpdWZGSVMxWVdROHpLUTFwZnhHYWUxakFwTWVsMXJMUV80LXRuMjJETGg3YTVSVk5WUmtiNEhqcFEzQk9sNDN6MFNUXzY0Zmo?oc=5": {
+    "title": "UFC Champion Islam Makhachev Has Clear Timeline for Next Title Defense - Yahoo Sports",
+    "assessed_at": "2026-11-28T06:27:18Z",
+    "status": "not_selected",
+    "reason": "Syndicated SI recap previously traced to November 25 Match TV interview; no new confirmed fight date.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjM0emh0ZGZZaFpZbk9fSlp4X09Jdk5LVUZUN3VPeEtVWGVnOTJUdnhMQTBlZGtmSUxqOG1mX3lCNTBaN3BWV0RpdWZGSVMxWVdROHpLUTFwZnhHYWUxakFwTWVsMXJMUV80LXRuMjJETGg3YTVSVk5WUmtiNEhqcFEzQk9sNDN6MFNUXzY0Zmo?oc=5"
     ],
     "published_links": {}
   }
