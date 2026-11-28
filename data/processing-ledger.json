@@ -1140,5 +1140,27 @@
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0s5MUVKdjd0R21qNzl1SGplSndVR19nOHpiT1RsTElrbGpwT0JBRnlieWRLZk45MlByWGx6RmZjUlJ1dDRSWml1em5LQU9WNWhyRk8xSEktUHBNY2JmQnN0b1hFTFlubFhVNGZPTFZ3ZTBRbFFvYTIxZTNVbUQyMmhUb3RMRG9yQWJaNW85RHJmdVUwbjhoZVo3Q2lHT05YUUtsRUxHdDhnTlZkOEJXdVRmaDhaZ3lLZWRLQUcxUWNTTjRzSzdlbDhYbw?oc=5"
     ],
     "published_links": {}
+  },
+  "_editorial_policy": {
+    "updated_local_date": "2026-11-29",
+    "timezone": "Asia/Karachi",
+    "daily_target": 3,
+    "platform": "x",
+    "route": "buffer",
+    "target_windows": [
+      "11:00",
+      "17:00",
+      "22:00"
+    ],
+    "counting": "News and editorial fallback combined; count this workflow only, including scheduled reservations. Unrelated gaming posts excluded.",
+    "fallback_formats": [
+      "verified MMA history/stat",
+      "technical fighter analysis",
+      "clearly labeled hypothetical fan debate"
+    ],
+    "same_topic_cooldown_days": 30,
+    "minimum_filler_spacing_hours": 3,
+    "no_backfill": true,
+    "notes": "Existing recurring task checks publishing windows; exact execution timing is not guaranteed. Verified news takes priority. Preserve all prior publication links."
   }
 }
