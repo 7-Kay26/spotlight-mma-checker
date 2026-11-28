@@ -243,12 +243,13 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-28T01:55:16Z",
+    "checked_at": "2026-11-28T02:40:10Z",
     "queue_checked_at": "2026-11-28T01:54:06.118533+00:00",
+    "queue_age_minutes": 46,
     "feed_errors": [],
-    "assessed": 7,
+    "assessed": 0,
     "published": 0,
-    "notes": "Refreshed stale collector successfully. Seven new candidates assessed. Targeted verification found original Smith and Makhachev statements dated November 25; other items are commentary, duplicates or unchanged unverified booking. No new qualifying confirmed development."
+    "notes": "All 80 queued candidates already assessed. Collector report remains within two-hour freshness threshold with no feed errors. No new qualifying story or actionable blocker; no duplicate X publication."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
