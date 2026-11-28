@@ -243,15 +243,16 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-28T20:13:58Z",
+    "checked_at": "2026-11-28T20:40:18Z",
     "local_date": "2026-11-29",
-    "queue_checked_at": "2026-11-28T20:12:08.855949+00:00",
+    "queue_checked_at": "2026-11-28T20:15:48.918361+00:00",
+    "queue_age_minutes": 24,
     "feed_errors": [],
-    "assessed": 12,
+    "assessed": 0,
     "published": 0,
     "editorial_slot_due": false,
     "next_editorial_window_local": "2026-11-29T11:00:00+05:00",
-    "notes": "Collector refreshed successfully. No confirmed new publishable development; held result with conflicting event-day reporting. Current local time around01:15, before first editorial window; no past-day fallback backfill."
+    "notes": "All 115 queued candidates already assessed. Fresh collector report, no feed errors. Local01:40 precedes first daily editorial window; no backfill of past-day slots. No new qualifying news or actionable blocker."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
