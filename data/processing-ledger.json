@@ -243,13 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-28T08:10:04Z",
-    "queue_checked_at": "2026-11-28T06:26:35.567432+00:00",
-    "queue_age_minutes": 103,
+    "checked_at": "2026-11-28T09:30:52Z",
+    "queue_checked_at": "2026-11-28T09:30:24.601105+00:00",
     "feed_errors": [],
-    "assessed": 0,
+    "assessed": 6,
     "published": 0,
-    "notes": "All 90 queued candidates already assessed. Collector report remains within two-hour freshness threshold with no feed errors. No new qualifying story or actionable blocker; no duplicate X publication."
+    "notes": "Stale collector refreshed successfully; all feeds healthy. Six new entries are recycled coverage, commentary, a wealth profile or an advance results placeholder; no qualifying new confirmed story."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -343,10 +342,10 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-28T06:27:18Z",
+    "observed_at": "2026-11-28T09:30:52Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 2,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46116611651",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46130766634",
     "manual_recovery_result": "success",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45987035208",
@@ -1001,6 +1000,66 @@
     "reason": "Syndicated SI recap previously traced to November 25 Match TV interview; no new confirmed fight date.",
     "sources": [
       "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjM0emh0ZGZZaFpZbk9fSlp4X09Jdk5LVUZUN3VPeEtVWGVnOTJUdnhMQTBlZGtmSUxqOG1mX3lCNTBaN3BWV0RpdWZGSVMxWVdROHpLUTFwZnhHYWUxakFwTWVsMXJMUV80LXRuMjJETGg3YTVSVk5WUmtiNEhqcFEzQk9sNDN6MFNUXzY0Zmo?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://www.mmamania.com/regional-mma-news-results/488816/full-video-chris-leben-upsets-yoshihiro-akiyama-double-retirement-fight-16-years-in-the-making": {
+    "title": "Full video: Chris Leben upsets Yoshihiro Akiyama double retirement fight 16 years in the making",
+    "assessed_at": "2026-11-28T09:30:52Z",
+    "status": "not_selected",
+    "reason": "Video retrospective explicitly describes November 21 Black Combat 17 result; event a week old, not newly confirmed news.",
+    "sources": [
+      "https://www.mmamania.com/regional-mma-news-results/488816/full-video-chris-leben-upsets-yoshihiro-akiyama-double-retirement-fight-16-years-in-the-making"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAweFM0V09fQjBPQk5qN1RtTnBSdnRFQWhaTGM2LUhDVWNoZ3c5RzIxajhibjJWVHJsTEtudjZOZnRTTGVKeFNRdzZyWHA1NDZWVmRR?oc=5": {
+    "title": "Joe Rogan Points to a Major Reason 13x Jiu-Jitsu World Champion Failed in UFC - شبكة تواصل الإخبارية",
+    "assessed_at": "2026-11-28T09:30:52Z",
+    "status": "not_selected",
+    "reason": "Syndicated fighter/analyst commentary already assessed; no new confirmed event.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAweFM0V09fQjBPQk5qN1RtTnBSdnRFQWhaTGM2LUhDVWNoZ3c5RzIxajhibjJWVHJsTEtudjZOZnRTTGVKeFNRdzZyWHA1NDZWVmRR?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWZNcEJQM2lFR29sNmpEcU5WaVgzTjJqMDFmMWV4Mk1IN29jOHplMTBoeXpudXR2em0wNXhPNDg5RUNiUTJ3OWpPWktWaVNSRVFPTk1JLUlHM3NBS3BudEc0aW11VEJSdUIwd2d2RnU4VW5WNlhBY3ZBZjhBTkFiYS1CZWNxZ3k5cV9DcEhOb3pGdDhfSHdDMnZWb2swZUM5d25Yb1pEbE9JejZTQ0tmWFdMalIxRTYzMW1hRURR?oc=5": {
+    "title": "Demetrious Johnson Net Worth In 2026: How The Former UFC Champion Built His Wealth - NDTV Sports",
+    "assessed_at": "2026-11-28T09:30:52Z",
+    "status": "not_selected",
+    "reason": "Evergreen estimated wealth profile, not substantive confirmed MMA news.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWZNcEJQM2lFR29sNmpEcU5WaVgzTjJqMDFmMWV4Mk1IN29jOHplMTBoeXpudXR2em0wNXhPNDg5RUNiUTJ3OWpPWktWaVNSRVFPTk1JLUlHM3NBS3BudEc0aW11VEJSdUIwd2d2RnU4VW5WNlhBY3ZBZjhBTkFiYS1CZWNxZ3k5cV9DcEhOb3pGdDhfSHdDMnZWb2swZUM5d25Yb1pEbE9JejZTQ0tmWFdMalIxRTYzMW1hRURR?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFV5dHUtN1NYbWNyTTBMWWJmMHJTOURMOWYxY3dmdzdVd0hpUUdVT3NFMzNiWW1CcTU0SEhoS05ZcU0zNFdpT25WRWxvNVlCNUFjZTZnOHJ4dko0WlBPT2M1N01QZk1ZNVlzenB3bktMc0RLWVR4anZQalZjUzgwQ21icmg?oc=5": {
+    "title": "RAF 15 Results: Cejudo vs. Song - MMA Fighting",
+    "assessed_at": "2026-11-28T09:30:52Z",
+    "status": "not_selected",
+    "reason": "Syndicated discovery of same advance results placeholder already read. Event starts November 29 01:00 UTC; no completed results at this check.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFV5dHUtN1NYbWNyTTBMWWJmMHJTOURMOWYxY3dmdzdVd0hpUUdVT3NFMzNiWW1CcTU0SEhoS05ZcU0zNFdpT25WRWxvNVlCNUFjZTZnOHJ4dko0WlBPT2M1N01QZk1ZNVlzenB3bktMc0RLWVR4anZQalZjUzgwQ21icmg?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ3Bad3pid1JBREFBcmItRXJwQnpIZ3ZvSjlFY1VscTQ2emZ4MFk3cVlNa3dsWmNwYng1R2x0QlVQSzlMS05tdEs2dDRZZHdkLXFYV3VoZlhsZFc3Ykp0TURIbnpjdmotWUpwY21SNi05WkpyV3hkVm15RE8wUzYtUVl1VVdxNXd3T2VzWkJmd1YzQVVJSXlSZGhRSTQ4Qlk5Z3RBTEZldHVGaWtkN2FOM192V19STHgzRzdnV29KOXdTU0k?oc=5": {
+    "title": "Retirement over? Stipe Miocic open to UFC return if ‘there’s a lot of money involved’ - MMA Mania",
+    "assessed_at": "2026-11-28T09:30:52Z",
+    "status": "not_selected",
+    "reason": "Syndicated conditional willingness to return for money; no confirmed comeback booking.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ3Bad3pid1JBREFBcmItRXJwQnpIZ3ZvSjlFY1VscTQ2emZ4MFk3cVlNa3dsWmNwYng1R2x0QlVQSzlMS05tdEs2dDRZZHdkLXFYV3VoZlhsZFc3Ykp0TURIbnpjdmotWUpwY21SNi05WkpyV3hkVm15RE8wUzYtUVl1VVdxNXd3T2VzWkJmd1YzQVVJSXlSZGhRSTQ4Qlk5Z3RBTEZldHVGaWtkN2FOM192V19STHgzRzdnV29KOXdTU0k?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ3poUnl5M0x5anlwZkFNN216WS1CVTZ4UDhLUE44X2t0RGQzNTZPelZrVktXVVlXaEJoQzdaa1VKUWxDd1RUSGN4anYtNjVSX2ZENWZwN0dZRGFXOWFDNTUxVm1JckExb1hsbFFvVmU1M1EtTlFGNzRiNFVLZ1BYQ05PU3BSMVFaek5XUnJR?oc=5": {
+    "title": "UFC's Carlos Prates Shares Bright Side of UFC 336 Interim Title Fight - Yahoo Sports",
+    "assessed_at": "2026-11-28T09:30:52Z",
+    "status": "not_selected",
+    "reason": "Syndicated fighter/analyst commentary already assessed; no new confirmed event.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ3poUnl5M0x5anlwZkFNN216WS1CVTZ4UDhLUE44X2t0RGQzNTZPelZrVktXVVlXaEJoQzdaa1VKUWxDd1RUSGN4anYtNjVSX2ZENWZwN0dZRGFXOWFDNTUxVm1JckExb1hsbFFvVmU1M1EtTlFGNzRiNFVLZ1BYQ05PU3BSMVFaek5XUnJR?oc=5"
     ],
     "published_links": {}
   }
