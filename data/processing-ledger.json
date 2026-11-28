@@ -243,13 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-28T00:48:40Z",
-    "queue_checked_at": "2026-11-27T23:16:26.292399+00:00",
-    "queue_age_minutes": 92,
+    "checked_at": "2026-11-28T01:55:16Z",
+    "queue_checked_at": "2026-11-28T01:54:06.118533+00:00",
     "feed_errors": [],
-    "assessed": 0,
+    "assessed": 7,
     "published": 0,
-    "notes": "All 73 queued candidates already assessed. Collector report remains within two-hour freshness threshold with no feed errors. No new qualifying story or actionable blocker; no duplicate X publication."
+    "notes": "Refreshed stale collector successfully. Seven new candidates assessed. Targeted verification found original Smith and Makhachev statements dated November 25; other items are commentary, duplicates or unchanged unverified booking. No new qualifying confirmed development."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -343,10 +342,10 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-27T23:16:53Z",
+    "observed_at": "2026-11-28T01:55:16Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 2,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46081542985",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46095393250",
     "manual_recovery_result": "success",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45987035208",
@@ -822,5 +821,81 @@
     "published_links": {
       "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
     }
+  },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPakV0VThIZElzN1pqeFVJNkE5VGstWGJucVJVTGZXeXdHVm5NOElXWEJPWmpWSUR1WTlIS3BzeWdFVDNyS2FMY1FlekdjSkY0R2tlQmhxTUtUamt5blpObERGRkpjU0ppSjlDZEM0ODJ3c0swcXkyVzNRcm5UVmNHcW5Pek9hS2JLdHgxQWtBNHM2WTNlT0VaUXFHZld6UGJjS25LZkxQak5lSzZqWmltZHcyVXh6LWkzdzVZ?oc=5": {
+    "title": "Top prospect Elijah Smith confirms new UFC contract: ‘I played my cards right’ - MMA Mania",
+    "assessed_at": "2026-11-28T01:55:16Z",
+    "status": "not_selected",
+    "reason": "Recycled contract news: original direct MMA Junkie interview published November 25 2026, updated 14:26 ET, describing re-signing already agreed. Not a new November 28 signing.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPakV0VThIZElzN1pqeFVJNkE5VGstWGJucVJVTGZXeXdHVm5NOElXWEJPWmpWSUR1WTlIS3BzeWdFVDNyS2FMY1FlekdjSkY0R2tlQmhxTUtUamt5blpObERGRkpjU0ppSjlDZEM0ODJ3c0swcXkyVzNRcm5UVmNHcW5Pek9hS2JLdHgxQWtBNHM2WTNlT0VaUXFHZld6UGJjS25LZkxQak5lSzZqWmltZHcyVXh6LWkzdzVZ?oc=5",
+      "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/25/ufc-news-elijah-smith-gilbert-re-signing/92944983007/"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxOczRCa0YtQXk1OVl5ck1FRXFQSUFsY1ZKOEI0R29qcHZyQ2c0SldzQlhrMHJYYW5JVV85d2JPVkRIQWxQYjNDSU1LYkZxNVpCaXA4a3BQTTBVQzRjb1FGSy02bVFrTW5Ca25lZFRwMnFNYnZubHZFNWs4RDZWazdfLUdZcElBbkZIWTFCRmd1bUdtM2JBN3B3X0VyNklqRzlKbnUybDAzWE5WYkg0QVFXemZzMVNBSXFUUmFSeENldEJ1X2Vxcm9j?oc=5": {
+    "title": "Song Yadong welcomes Merab Dvalishvili fight if not granted UFC title shot - MMA Junkie",
+    "assessed_at": "2026-11-28T01:55:16Z",
+    "status": "not_selected",
+    "reason": "Speculative callout, proposed matchmaking or retrospective commentary; no newly confirmed event.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxOczRCa0YtQXk1OVl5ck1FRXFQSUFsY1ZKOEI0R29qcHZyQ2c0SldzQlhrMHJYYW5JVV85d2JPVkRIQWxQYjNDSU1LYkZxNVpCaXA4a3BQTTBVQzRjb1FGSy02bVFrTW5Ca25lZFRwMnFNYnZubHZFNWs4RDZWazdfLUdZcElBbkZIWTFCRmd1bUdtM2JBN3B3X0VyNklqRzlKbnUybDAzWE5WYkg0QVFXemZzMVNBSXFUUmFSeENldEJ1X2Vxcm9j?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlF2a2E1NFllajJoZWxZRHA3ZEZJckxtb0otbkdiOVhNRkRXYm1PQ0VBbEFnUEIxOS0zeVgwSXhWYW9yclhYdVdIVkFPQzJ0aW1iaFhCSlFTcE82RjJpOFBDeXBjNk9Xd2w2RnM3MkxvRWNoZDM5VWZsMTRQX2NFQlotWnV4TmdRVFhRUWln?oc=5": {
+    "title": "Henry Cejudo's Wild UFC Title Plan for Arman Tsarukyan - MMA Sucka",
+    "assessed_at": "2026-11-28T01:55:16Z",
+    "status": "not_selected",
+    "reason": "Speculative callout, proposed matchmaking or retrospective commentary; no newly confirmed event.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlF2a2E1NFllajJoZWxZRHA3ZEZJckxtb0otbkdiOVhNRkRXYm1PQ0VBbEFnUEIxOS0zeVgwSXhWYW9yclhYdVdIVkFPQzJ0aW1iaFhCSlFTcE82RjJpOFBDeXBjNk9Xd2w2RnM3MkxvRWNoZDM5VWZsMTRQX2NFQlotWnV4TmdRVFhRUWln?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2Zjc2RoR00teTdWb2xzUWw5Zlg2QXF0ZmxVQ1hBNkJPdWo2M3pJbEdGQjR3YTNZdWZHY2dVWVVoNzdTd1M0NkNXcEJ2eExZMlktQm9rOHlFSlg1N2ZqZ2hEamdTSks1TGNWM1daNkxUOGhmVU5mSF90dkh3TE5ENC1nQW83dGVMbTNFRWlIbWM2RlE?oc=5": {
+    "title": "Garbrandt Reveals Retirement Plan and Dream Final Opponent - MMA Sucka",
+    "assessed_at": "2026-11-28T01:55:16Z",
+    "status": "duplicate_published",
+    "reason": "Already-published Garbrandt retirement-plan interview; dream opponent is not a confirmed booking.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2Zjc2RoR00teTdWb2xzUWw5Zlg2QXF0ZmxVQ1hBNkJPdWo2M3pJbEdGQjR3YTNZdWZHY2dVWVVoNzdTd1M0NkNXcEJ2eExZMlktQm9rOHlFSlg1N2ZqZ2hEamdTSks1TGNWM1daNkxUOGhmVU5mSF90dkh3TE5ENC1nQW83dGVMbTNFRWlIbWM2RlE?oc=5"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxONHRQbmhLUDJqWVJ0OTNPQ1VzMVpDbF9BQjBSZFVnUmRPVExmTkk5bE9HV21HdHpoaldwdGVSQ1VraEx0dTBPSXdkNUxEeE9QSlg3RUtHTWlxRGp1UUVPZUdrYTRmSTU3MVBxV0pvWWpuaTBEV1phLVkyaElEeWJFbENORXluYVJTYjdtc3VkTjhLZURHdjZNY18wVDNMeFZFU1E?oc=5": {
+    "title": "UFC Champion Islam Makhachev Has Clear Timeline for Next Title Defense - Sports Illustrated",
+    "assessed_at": "2026-11-28T01:55:16Z",
+    "status": "not_selected",
+    "reason": "SI recap links Match TV primary interview dated November 25 2026 09:01:13 +03:00. Fighter says he will train from January and does not know fight date; no newly confirmed booking/timeline.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxONHRQbmhLUDJqWVJ0OTNPQ1VzMVpDbF9BQjBSZFVnUmRPVExmTkk5bE9HV21HdHpoaldwdGVSQ1VraEx0dTBPSXdkNUxEeE9QSlg3RUtHTWlxRGp1UUVPZUdrYTRmSTU3MVBxV0pvWWpuaTBEV1phLVkyaElEeWJFbENORXluYVJTYjdtc3VkTjhLZURHdjZNY18wVDNMeFZFU1E?oc=5",
+      "https://www.si.com/fannation/mma/news/ufc-champion-islam-makhachev-clear-timeline-next-title-defense",
+      "https://matchtv.ru/edinoborstva/matchtvnews_NI2389309_Islam_Mahachev_Sledujushhim_sopernikom_budet_Morales_ili_Prates_Budu_gotovitsa_s_janvara"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHdiaGlEc2tpOU1SbXZRRlZnT242d05zTjN2akxkalYxWml5ZnJxTWR3RHk2RHVLeEk1ZTF1dXM4dGhhcTRsNDNWLXZGcldrQ3pKWDhRclUzT3N4d25VdEdFc2NMenR2ckJsTnpVS19MQlZVLXlwMW1DS0hHQXk4cWlva1g2NmJONlhKRWtVdVFJTUdkNjdXb2wtQ2NoX3VKcnVZSU45NFlxcHc?oc=5": {
+    "title": "Conor McGregor Reminds Fans of 40-Second Knockout Win - MMA Sucka",
+    "assessed_at": "2026-11-28T01:55:16Z",
+    "status": "not_selected",
+    "reason": "Speculative callout, proposed matchmaking or retrospective commentary; no newly confirmed event.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHdiaGlEc2tpOU1SbXZRRlZnT242d05zTjN2akxkalYxWml5ZnJxTWR3RHk2RHVLeEk1ZTF1dXM4dGhhcTRsNDNWLXZGcldrQ3pKWDhRclUzT3N4d25VdEdFc2NMenR2ckJsTnpVS19MQlZVLXlwMW1DS0hHQXk4cWlva1g2NmJONlhKRWtVdVFJTUdkNjdXb2wtQ2NoX3VKcnVZSU45NFlxcHc?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEJYcEhkZ2pVUHRlTjhsYllyWGJMNkVXLW9JNXUydk12T3B1bFlYbndWTm5xelRqdnczZE8waEQxV1Z5TDBHOUlLRjJqRDZnTmxlR09OTG05Sjdwd0IzSVpEdVJXXzRUZ004cGs4UmxUczlpUTZ2SGg2QVNLcmxqOFNCdUFEOUE2UDd3?oc=5": {
+    "title": "UFC Newcomer Booked to Fight on Less Than 2 Weeks' Notice at UFC Saudi Arabia - Yahoo Sports",
+    "assessed_at": "2026-11-28T01:55:16Z",
+    "status": "awaiting_primary_verification",
+    "reason": "Yahoo syndication of SI booking report already assessed and held for insufficient primary confirmation and conflicting event-date wording; no new corroboration.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEJYcEhkZ2pVUHRlTjhsYllyWGJMNkVXLW9JNXUydk12T3B1bFlYbndWTm5xelRqdnczZE8waEQxV1Z5TDBHOUlLRjJqRDZnTmxlR09OTG05Sjdwd0IzSVpEdVJXXzRUZ004cGs4UmxUczlpUTZ2SGg2QVNLcmxqOFNCdUFEOUE2UDd3?oc=5",
+      "https://www.si.com/fannation/mma/news/ufc-newcomer-booked-to-fight-on-less-than-2-weeks-notice-ufc-saudi-arabia"
+    ],
+    "published_links": {}
   }
 }
