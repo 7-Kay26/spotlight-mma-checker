@@ -243,12 +243,13 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-28T11:51:17Z",
-    "queue_checked_at": "2026-11-28T11:50:49.592863+00:00",
+    "checked_at": "2026-11-28T12:56:24Z",
+    "queue_checked_at": "2026-11-28T11:57:19.108394+00:00",
+    "queue_age_minutes": 59,
     "feed_errors": [],
     "assessed": 1,
     "published": 0,
-    "notes": "Stale collector refreshed successfully with all feeds healthy. One new discovery URL is already-published Tuivasa–Diniz coverage; no duplicate publication."
+    "notes": "Collector report is fresh with no feed errors. One new candidate concerns a potential opponent, not a confirmed booking. No qualifying new development or actionable blocker."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -1075,5 +1076,15 @@
     "published_links": {
       "x": "https://twitter.com/SpotlightEncoun/status/2126030543481397521"
     }
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92a2VPczl4ZTF3el9aMGJPenZQVDF5a1hBMHhlTXFpbUZlWGZTUEZ2Y1NRdEFGXzc3SmpVbjNmYWZXSGZKTTA1SGh5cE5maGt5SUQ0?oc=5": {
+    "title": "Ex-UFC Champion Tyron Woodley Reveals Potential Opponent for Final MMA Fight in 2027 - شبكة تواصل الإخبارية",
+    "assessed_at": "2026-11-28T12:56:24Z",
+    "status": "not_selected",
+    "reason": "Potential opponent discussion only; headline does not establish a signed final fight, official event or confirmed date. Skip speculative matchmaking.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92a2VPczl4ZTF3el9aMGJPenZQVDF5a1hBMHhlTXFpbUZlWGZTUEZ2Y1NRdEFGXzc3SmpVbjNmYWZXSGZKTTA1SGh5cE5maGt5SUQ0?oc=5"
+    ],
+    "published_links": {}
   }
 }
