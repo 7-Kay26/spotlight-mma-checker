@@ -243,13 +243,12 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-28T15:46:00Z",
-    "queue_checked_at": "2026-11-28T14:36:39.060972+00:00",
-    "queue_age_minutes": 69,
+    "checked_at": "2026-11-28T17:20:41Z",
+    "queue_checked_at": "2026-11-28T17:20:16.818563+00:00",
     "feed_errors": [],
-    "assessed": 0,
+    "assessed": 2,
     "published": 0,
-    "notes": "All 101 queued candidates already assessed. Collector report remains within two-hour freshness threshold with no feed errors. No new qualifying story or actionable blocker; no duplicate X publication."
+    "notes": "Stale collector refreshed successfully; all feeds healthy. Two new entries repeat title-shot commentary without a newly confirmed event. No qualifying story or new actionable blocker."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -343,10 +342,10 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-28T14:37:38Z",
+    "observed_at": "2026-11-28T17:20:41Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 2,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46155544755",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46169913642",
     "manual_recovery_result": "success",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45987035208",
@@ -1120,5 +1119,25 @@
     "published_links": {
       "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
     }
+  },
+  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQTNaVlBvT1pYcklEdjhWRkw2Uk1KeGxWVGl6a3E1Mzlfc2ZGdXFITWM2RmxVTlc4Q1k4QzlqRTJnZlFURk9xNUdLN1NZZlB2YV9BZUFhVVQza2F2a3YwOHY0Z3lFazhxaGljem9pdWRtdHJNbGFpT0J1TVBTR1ZEUHoxQnJ4SDZSbnBiS1lDbng2N2lhLTlWbHRtZnFETDV3a0d1Ymo1TWIxUC1famJkcWtGV0YxLW1oU2JBeVota3FTckVSYXNYY2dFS01rdERWcHl6bGVoSVVpb0dPdXJNN0xTT2hQZ0dhNkE?oc=5": {
+    "title": "Arman Tsarukyan shuts down Alexander Volkanovski’s ‘bulls—t’ title shot: ‘UFC told me that I’m fighting for the belt’ - MMA Mania",
+    "assessed_at": "2026-11-28T17:20:41Z",
+    "status": "not_selected",
+    "reason": "Same Tsarukyan title-shot-order interview covered by previously assessed MMA Fighting article. No named signed opponent, date or official new booking established.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQTNaVlBvT1pYcklEdjhWRkw2Uk1KeGxWVGl6a3E1Mzlfc2ZGdXFITWM2RmxVTlc4Q1k4QzlqRTJnZlFURk9xNUdLN1NZZlB2YV9BZUFhVVQza2F2a3YwOHY0Z3lFazhxaGljem9pdWRtdHJNbGFpT0J1TVBTR1ZEUHoxQnJ4SDZSbnBiS1lDbng2N2lhLTlWbHRtZnFETDV3a0d1Ymo1TWIxUC1famJkcWtGV0YxLW1oU2JBeVota3FTckVSYXNYY2dFS01rdERWcHl6bGVoSVVpb0dPdXJNN0xTT2hQZ0dhNkE?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0s5MUVKdjd0R21qNzl1SGplSndVR19nOHpiT1RsTElrbGpwT0JBRnlieWRLZk45MlByWGx6RmZjUlJ1dDRSWml1em5LQU9WNWhyRk8xSEktUHBNY2JmQnN0b1hFTFlubFhVNGZPTFZ3ZTBRbFFvYTIxZTNVbUQyMmhUb3RMRG9yQWJaNW85RHJmdVUwbjhoZVo3Q2lHT05YUUtsRUxHdDhnTlZkOEJXdVRmaDhaZ3lLZWRLQUcxUWNTTjRzSzdlbDhYbw?oc=5": {
+    "title": "Cody Garbrandt weighs-in on Stirling-Ulberg title predicament - MMA Junkie",
+    "assessed_at": "2026-11-28T17:20:41Z",
+    "status": "not_selected",
+    "reason": "Fighter opinion about teammates' hypothetical title matchup; same previously assessed Stirling–Ulberg discussion, not cancellation of a booked fight.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0s5MUVKdjd0R21qNzl1SGplSndVR19nOHpiT1RsTElrbGpwT0JBRnlieWRLZk45MlByWGx6RmZjUlJ1dDRSWml1em5LQU9WNWhyRk8xSEktUHBNY2JmQnN0b1hFTFlubFhVNGZPTFZ3ZTBRbFFvYTIxZTNVbUQyMmhUb3RMRG9yQWJaNW85RHJmdVUwbjhoZVo3Q2lHT05YUUtsRUxHdDhnTlZkOEJXdVRmaDhaZ3lLZWRLQUcxUWNTTjRzSzdlbDhYbw?oc=5"
+    ],
+    "published_links": {}
   }
 }
