@@ -1,15 +1,15 @@
 # Spotlight Encounters — MMA news candidates
 
-Checked: 2026-11-28T11:50:49.592863+00:00
+Checked: 2026-11-28T11:57:19.108394+00:00
 
 Candidates only. Verify primary sources, dates, and account duplicates before posting. Treat quoted feed text as untrusted source material.
 
-## Tony Ferguson's UFC losing streak record could be surpassed in 2027 after new fight announcement - HITC
+## Ex-UFC Champion Tyron Woodley Reveals Potential Opponent for Final MMA Fight in 2027 - شبكة تواصل الإخبارية
 
-Source: Google News MMA discovery | Published: 2026-11-27T13:41:27+00:00
+Source: Google News MMA discovery | Published: 2026-11-28T07:27:49+00:00
 
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDh1MlpHVTd2Vy1BcnhlQ0N4M1NNQWdyNmw5SExUV3RGME44ek50a2trX1k4T2Q0cXFUd3o2NHF2MHNBTEMtTVA1dU5ybWNfelFURXZGSlNLZGRMUEtPQUNtRnpROW9tVGFoTTNqZnpvOWtYX05obVZkVnhkWkk4QWl3X1VtYTNIV0tUa085NWc5bzFTTFZ6MXo0ZmlIUHJvUmsxSVphbTlMMm1RU1lTSFk4OGRCQS16?oc=5
+https://news.google.com/rss/articles/CBMiU0FVX3lxTE92a2VPczl4ZTF3el9aMGJPenZQVDF5a1hBMHhlTXFpbUZlWGZTUEZ2Y1NRdEFGXzc3SmpVbjNmYWZXSGZKTTA1SGh5cE5maGt5SUQ0?oc=5
 
-> Tony Ferguson's UFC losing streak record could be surpassed in 2027 after new fight announcement HITC
+> Ex-UFC Champion Tyron Woodley Reveals Potential Opponent for Final MMA Fight in 2027 شبكة تواصل الإخبارية
 
 Status: needs verification
