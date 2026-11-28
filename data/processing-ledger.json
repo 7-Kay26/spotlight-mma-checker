@@ -243,13 +243,15 @@
     "published_links": {}
   },
   "_last_check": {
-    "checked_at": "2026-11-28T18:39:37Z",
-    "queue_checked_at": "2026-11-28T17:20:16.818563+00:00",
-    "queue_age_minutes": 79,
+    "checked_at": "2026-11-28T20:13:58Z",
+    "local_date": "2026-11-29",
+    "queue_checked_at": "2026-11-28T20:12:08.855949+00:00",
     "feed_errors": [],
-    "assessed": 0,
+    "assessed": 12,
     "published": 0,
-    "notes": "All 103 queued candidates already assessed. Collector report remains within two-hour freshness threshold with no feed errors. No new qualifying story or actionable blocker; no duplicate X publication."
+    "editorial_slot_due": false,
+    "next_editorial_window_local": "2026-11-29T11:00:00+05:00",
+    "notes": "Collector refreshed successfully. No confirmed new publishable development; held result with conflicting event-day reporting. Current local time around01:15, before first editorial window; no past-day fallback backfill."
   },
   "https://www.mmamania.com/ufc-odds/488471/2026-was-ufcs-year-of-the-upset": {
     "story": "2026 was UFC’s Year of the Upset",
@@ -343,10 +345,10 @@
   },
   "_collector_health": {
     "status": "intermittent_schedule_manual_fallback",
-    "observed_at": "2026-11-28T17:20:41Z",
+    "observed_at": "2026-11-28T20:13:58Z",
     "workflow_state": "active",
     "observed_scheduled_runs": 2,
-    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46169913642",
+    "manual_recovery_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/46185122084",
     "manual_recovery_result": "success",
     "alert_reported": true,
     "latest_scheduled_run": "https://github.com/7-Kay26/spotlight-mma-checker/actions/runs/45987035208",
@@ -1162,5 +1164,132 @@
     "minimum_filler_spacing_hours": 3,
     "no_backfill": true,
     "notes": "Existing recurring task checks publishing windows; exact execution timing is not guaranteed. Verified news takes priority. Preserve all prior publication links."
+  },
+  "https://www.mmafighting.com/ufc/523190/anything-but-fighting-glover-teixeira-wrote-his-first-book-reflects-on-career-highs-and-lows": {
+    "title": "Anything but fighting: Glover Teixeira wrote his first book, reflects on career highs and lows",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "not_selected",
+    "reason": "Book-promotion career retrospective interview; no major new fighter/promotion announcement or bout development established.",
+    "sources": [
+      "https://www.mmafighting.com/ufc/523190/anything-but-fighting-glover-teixeira-wrote-his-first-book-reflects-on-career-highs-and-lows"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeFJZS2FqYVI4YmhVWWxWbU5iWnZ3TWtLN0x6M0lweEdZLUI5b3JuUC1XTGxBV3k5SnNHNHI1OEFBbmcxZ2NjNVdkU29rT2ZybHh3elVHUDhPZDNmMEZsSlRONGw2amNyZGRRbERSMWRVdXIyaUV5Y0pPMHlUZzBlcm5KSUVpcklJRmtFLWtJWUU4Snl6N1YtQw?oc=5": {
+    "title": "\"Almost K*lled Himself\" - Caio Borralho Details Jean Silva's Darkest Moments After UFC Defeat - MMA Sucka",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "not_selected",
+    "reason": "Third-party account of another fighter's mental-health crisis with no primary corroboration obtained. No verified bout change; do not amplify sensational unsupported personal claims.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeFJZS2FqYVI4YmhVWWxWbU5iWnZ3TWtLN0x6M0lweEdZLUI5b3JuUC1XTGxBV3k5SnNHNHI1OEFBbmcxZ2NjNVdkU29rT2ZybHh3elVHUDhPZDNmMEZsSlRONGw2amNyZGRRbERSMWRVdXIyaUV5Y0pPMHlUZzBlcm5KSUVpcklJRmtFLWtJWUU4Snl6N1YtQw?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaldRdk02MnlxeGtxUE5IWnFEbnZOY0FJV29YLVBVeGpUODFHTndpMkgtRzM3OV9SUVBFVUkyU1VsSWFfc0dfU3pjT1c4UkhaYzQ3M29qS01ZSFRhTmtTd1NIWU45enRHaXVCcXJZcVRMWEg2c0lIOTMxNzdITmNMbXdwWDU4MmgtNHNxTHZPSHlMcnowczc1U1E0WW1vMGc?oc=5": {
+    "title": "Arman Tsarukyan Rejects Gaethje vs. Volkanovski Title Fight - MMA Sucka",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "not_selected",
+    "reason": "Minor commentary, hypothetical matchmaking or retrospective feature; no confirmed new bout or event change.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaldRdk02MnlxeGtxUE5IWnFEbnZOY0FJV29YLVBVeGpUODFHTndpMkgtRzM3OV9SUVBFVUkyU1VsSWFfc0dfU3pjT1c4UkhaYzQ3M29qS01ZSFRhTmtTd1NIWU45enRHaXVCcXJZcVRMWEg2c0lIOTMxNzdITmNMbXdwWDU4MmgtNHNxTHZPSHlMcnowczc1U1E0WW1vMGc?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjF2QUZpRW5JMjE0WDJ1dUxjSHE3Ni1mV2g2cGhkX0lrQ3kzd0NQQUtFTjFXUHJ2NTJxZlZ3djhSYWk4SEtnQkRUQmFiN1NsVjFkdVZJNkwxd2ZBSzA4UFhJMk8wZnBjbERzZ21oVFA4TC1HdXNXZFItOHNJVU5mWTVjQ0lwMHVNNHJPekF0OHdnNkV6YXNxZHdpYVZhc2JKLUhzRA?oc=5": {
+    "title": "Song Yadong Eyes Merab Dvalishvili if Denied Title Shot - MMA Sucka",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "not_selected",
+    "reason": "Minor commentary, hypothetical matchmaking or retrospective feature; no confirmed new bout or event change.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjF2QUZpRW5JMjE0WDJ1dUxjSHE3Ni1mV2g2cGhkX0lrQ3kzd0NQQUtFTjFXUHJ2NTJxZlZ3djhSYWk4SEtnQkRUQmFiN1NsVjFkdVZJNkwxd2ZBSzA4UFhJMk8wZnBjbERzZ21oVFA4TC1HdXNXZFItOHNJVU5mWTVjQ0lwMHVNNHJPekF0OHdnNkV6YXNxZHdpYVZhc2JKLUhzRA?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejFISWtGdzNGUGJ3aTdXWlUzNUYwR09XU0dMQkQyU0NMakxxNDZ4d0xoenFXaElWaW1MS241T3FLeU1uekdfeXVLR3gxdlJzalBZOE5ZN2pjcjE2bGlVNXpWWXBnbnQtRFJmNHozZFAxLTBEelhWdEotYndIMi1rdVNFTGE4U1d5UDNxQjkydWRYaFhzWTQwSGlNV0lFOUtCT2F3?oc=5": {
+    "title": "UFC announces full fight card for first Vegas event in 2027 - MMA Junkie",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "not_selected",
+    "reason": "Read original Yahoo/MMA Junkie: lineup announced Wednesday November 25, now repackaged in November 28 roundup. Not a new announcement at this run.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejFISWtGdzNGUGJ3aTdXWlUzNUYwR09XU0dMQkQyU0NMakxxNDZ4d0xoenFXaElWaW1MS241T3FLeU1uekdfeXVLR3gxdlJzalBZOE5ZN2pjcjE2bGlVNXpWWXBnbnQtRFJmNHozZFAxLTBEelhWdEotYndIMi1rdVNFTGE4U1d5UDNxQjkydWRYaFhzWTQwSGlNV0lFOUtCT2F3?oc=5",
+      "https://sports.yahoo.com/mma/articles/ufc-announces-full-fight-card-191548978.html"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWnZ4b1hvWUdWMHZqckl5ZzhEYUFVUWxiNkotZ280UlI3QUVoYmhOVDZwcUszRnN4YjFieTNfWngtazZHQVdWSS1sOXNOcEFSNkRUd1Q2NU5wNm5INllyYVNxUmRLRmJqQ3NhalRYREo2M3VUWGQ4N2s5UF9MN2RUZGZhNGg3NUFfMTFFRFFvUGVHWHp0R0ZxcUVXQkF6bEZFSjI0bDh5MXVybGxLWjdQU0ZrZGtBMmNCdXdJLTFIQQ?oc=5": {
+    "title": "Ex-Kickboxing Champion Adds to Undefeated MMA Record With Vicious First-Round Finish - Sports Illustrated",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "awaiting_primary_verification",
+    "reason": "Two reports agree 5-0 and first-round 1:18 TKO over Khamidjon Akhunov at BWP/Bullwaves 1 in Dubai, but event-day wording conflicts: MMA Junkie dated Nov27 says Saturday; MMA Mania says Fri Nov27. Primary promotion/commission result not located. Hold precise event-date claim/publication pending corroboration; no UFC contract confirmed.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWnZ4b1hvWUdWMHZqckl5ZzhEYUFVUWxiNkotZ280UlI3QUVoYmhOVDZwcUszRnN4YjFieTNfWngtazZHQVdWSS1sOXNOcEFSNkRUd1Q2NU5wNm5INllyYVNxUmRLRmJqQ3NhalRYREo2M3VUWGQ4N2s5UF9MN2RUZGZhNGg3NUFfMTFFRFFvUGVHWHp0R0ZxcUVXQkF6bEZFSjI0bDh5MXVybGxLWjdQU0ZrZGtBMmNCdXdJLTFIQQ?oc=5",
+      "https://www.mmamania.com/latest-news/488834/ufc-ready-former-glory-champ-tyjani-beztati-destroys-opponent-with-78-second-knockout-video",
+      "https://mmajunkie.usatoday.com/story/sports/mma/2026/11/27/tyjani-beztati-vs-khamidjon-akhunov-video-glory/92981865007/"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDNTM2xQaDRyY2wtZkpuYktzWGgwaThPQzczSmZxYUtGX3F4UTQ3VkJQb0I0b2pKdjUyYTZnTDRIVlVETzl6Sks2eUxaTlNIQjRWd1B1RXhMU0VLNmJtMHFKODFPQXBOaXRITUJpMzRIQkpYcEpFVEt5QzJ4Z2tEamFWWWJHWWoyOWp3THFYQ19vVzZkcEpFRURBMVo?oc=5": {
+    "title": "Anthony Pettis backs Arman Tsarukyan Getting next UFC Lightweight Title Shot - MMA Sucka",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "not_selected",
+    "reason": "Minor commentary, hypothetical matchmaking or retrospective feature; no confirmed new bout or event change.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDNTM2xQaDRyY2wtZkpuYktzWGgwaThPQzczSmZxYUtGX3F4UTQ3VkJQb0I0b2pKdjUyYTZnTDRIVlVETzl6Sks2eUxaTlNIQjRWd1B1RXhMU0VLNmJtMHFKODFPQXBOaXRITUJpMzRIQkpYcEpFVEt5QzJ4Z2tEamFWWWJHWWoyOWp3THFYQ19vVzZkcEpFRURBMVo?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://www.mmamania.com/latest-news/488862/stronger-than-ever-alex-pereira-sharpens-iron-with-iron-spars-sean-strickland-ahead-of-ufc-335-video": {
+    "title": "Stronger than ever? Alex Pereira sharpens iron with iron, spars Sean Strickland ahead of UFC 335 | Video",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "not_selected",
+    "reason": "Sparring/training footage ahead of already-announced matchup; routine training update.",
+    "sources": [
+      "https://www.mmamania.com/latest-news/488862/stronger-than-ever-alex-pereira-sharpens-iron-with-iron-spars-sean-strickland-ahead-of-ufc-335-video"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFNiMlpZYjdWYlA2RlpKaHVHQy1mbC1pZTh4S3RlMHRBcUpFbU4zZDMwTHNEV2ZWN290ZWt4a2ZneU1jdVhUNm1xNzZwaEsyZjRmUmY3N3JoNGtCWlpYcTNOOHptejRwZ2NzMlNmWFBtWmdyWGVWOV9PX01BYlN6UjNJTnJOMGpiN01tNFNVajJOZHRnRkNaV25QanFUbGdDUFNZZ2NkOEJOaHdHNzBodlB4bkNvTWZmWmdzZy1Hck1xdw?oc=5": {
+    "title": "Arman Tsarukyan warned as his ex-UFC champion opponent vows to ‘shock the world’ at RAF 15 - Bloody Elbow",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "not_selected",
+    "reason": "Minor commentary, hypothetical matchmaking or retrospective feature; no confirmed new bout or event change.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFNiMlpZYjdWYlA2RlpKaHVHQy1mbC1pZTh4S3RlMHRBcUpFbU4zZDMwTHNEV2ZWN290ZWt4a2ZneU1jdVhUNm1xNzZwaEsyZjRmUmY3N3JoNGtCWlpYcTNOOHptejRwZ2NzMlNmWFBtWmdyWGVWOV9PX01BYlN6UjNJTnJOMGpiN01tNFNVajJOZHRnRkNaV25QanFUbGdDUFNZZ2NkOEJOaHdHNzBodlB4bkNvTWZmWmdzZy1Hck1xdw?oc=5"
+    ],
+    "published_links": {}
+  },
+  "https://www.mmamania.com/latest-news/488908/arman-tsarukyan-shuts-down-alexander-volkanovskis-bulls-t-title-shot-ufc-told-me-that-im-fighting-for-the-belt": {
+    "title": "Arman Tsarukyan shuts down Alexander Volkanovski’s ‘bulls—t’ title shot: ‘UFC told me that I’m fighting for the belt’",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "not_selected",
+    "reason": "Minor commentary, hypothetical matchmaking or retrospective feature; no confirmed new bout or event change.",
+    "sources": [
+      "https://www.mmamania.com/latest-news/488908/arman-tsarukyan-shuts-down-alexander-volkanovskis-bulls-t-title-shot-ufc-told-me-that-im-fighting-for-the-belt"
+    ],
+    "published_links": {}
+  },
+  "https://www.mmamania.com/latest-news/488834/ufc-ready-former-glory-champ-tyjani-beztati-destroys-opponent-with-78-second-knockout-video": {
+    "title": "UFC ready? Former GLORY champ Tyjani Beztati destroys opponent with 78-second knockout | Video",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "awaiting_primary_verification",
+    "reason": "Two reports agree 5-0 and first-round 1:18 TKO over Khamidjon Akhunov at BWP/Bullwaves 1 in Dubai, but event-day wording conflicts: MMA Junkie dated Nov27 says Saturday; MMA Mania says Fri Nov27. Primary promotion/commission result not located. Hold precise event-date claim/publication pending corroboration; no UFC contract confirmed.",
+    "sources": [
+      "https://www.mmamania.com/latest-news/488834/ufc-ready-former-glory-champ-tyjani-beztati-destroys-opponent-with-78-second-knockout-video",
+      "https://www.mmamania.com/latest-news/488834/ufc-ready-former-glory-champ-tyjani-beztati-destroys-opponent-with-78-second-knockout-video",
+      "https://mmajunkie.usatoday.com/story/sports/mma/2026/11/27/tyjani-beztati-vs-khamidjon-akhunov-video-glory/92981865007/"
+    ],
+    "published_links": {}
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3pna3BUOXc4Qnh0VHRlZDFSYUxXek1nVDJpQ05MVDFhaTFiTmRIZlhDcUhoR0RKZnhDUGpCTU83RGdiTE5wdUhaUFhsZXdyVEo3ZG1OelpRbGdobkFBR1lRM2JZZnZXQnBUT1Vsa2l5WnJqNFcwd2JkcENBMm9XaHByV3FNWVpUQ1RJVWl1MmVLakhn?oc=5": {
+    "title": "Cody Garbrandt Makes Announcement About UFC Cleveland Card - Yahoo Sports",
+    "assessed_at": "2026-11-28T20:13:58Z",
+    "status": "duplicate_published",
+    "reason": "Already-published Garbrandt retirement plans, syndicated coverage.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3pna3BUOXc4Qnh0VHRlZDFSYUxXek1nVDJpQ05MVDFhaTFiTmRIZlhDcUhoR0RKZnhDUGpCTU83RGdiTE5wdUhaUFhsZXdyVEo3ZG1OelpRbGdobkFBR1lRM2JZZnZXQnBUT1Vsa2l5WnJqNFcwd2JkcENBMm9XaHByV3FNWVpUQ1RJVWl1MmVLakhn?oc=5"
+    ],
+    "published_links": {
+      "x": "https://twitter.com/SpotlightEncoun/status/2126417968850489557"
+    }
   }
 }
